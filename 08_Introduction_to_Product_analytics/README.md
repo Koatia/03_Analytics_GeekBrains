@@ -40,4 +40,5 @@
 <video controls src="https://gbcdn.mrgcdn.ru/uploads/record/228194/attachment/b04f4e2361f1226b2d799f44d2fa0c17.mp4" title="Видеозапись"></video>
 
 [Калькулятор достоверности АB-тестов](https://mindbox.ru/tools/ab-test-calculator/)
+
 [Практическое задание](https://gb.ru/lessons/430558/homework)
