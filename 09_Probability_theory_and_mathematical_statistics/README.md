@@ -67,11 +67,11 @@
 [Практическое задание](2_Seminar.md)
 [Домашнее задание](2_HomeWork.md)
 
-#### Урок 3 EDA (exploratory data analysis) или Разведочный анализ
-Презентация
-Видео
-Практическое задание
-Домашнее задание
+#### [Урок 3 EDA (exploratory data analysis) или Разведочный анализ](https://gb.ru/lessons/447655)
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793251/attachment/03614a354a83ae133c206b58f0733329.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/324451/attachment/2fef357c7331a1aff3f48e096cbfc8ba.mp4" title="Видео"></video>
+[Практическое задание](3_Seminar.md)
+[Домашнее задание](3_HomeWork.md)
 
 #### Урок 4 Непрерывная случайная величина
 Презентация
