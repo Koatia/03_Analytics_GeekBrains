@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Добавление удаленных репозиториев
 git remote add origin git@github.com:Koatia/03_Analytics_GeekBrains.git;
 git remote add mirror ssh://git@gitverse.ru:2222/Kostia/03_Analytics_GeekBrains.git
