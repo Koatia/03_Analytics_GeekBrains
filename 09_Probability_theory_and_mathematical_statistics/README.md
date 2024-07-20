@@ -100,19 +100,21 @@
 [Практическое задание](5_Seminar.md)
 [Домашнее задание](5_HomeWork.md)
 
-#### Урок 6 Сравнение долей. Построение доверительного интервала
+#### [Урок 6 Сравнение долей. Построение доверительного интервала](https://gb.ru/lessons/447658)
 
-Презентация
-Видео
-Практическое задание
-Домашнее задание
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793243/attachment/4bc4462deadf4d4a581b3466ee197b9f.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/326144/attachment/54e3a46d3c7d78d020435cee80a3a114.mp4" title="Видео"></video>
+[Практическое задание](6_Seminar.md)
+[Домашнее задание](6_HomeWork.md)
+[Домашнее задание](6_HomeWork.py)
 
-#### Урок 7 Непараметрические тесты
+#### [Урок 7 Непараметрические тесты](https://gb.ru/lessons/447659)
 
-Презентация
-Видео
-Практическое задание
-Домашнее задание
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793242/attachment/690bdccae12c3bfddcf3552c7b584ff0.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/326879/attachment/ceb50397ac2defffdb6a85a1131884b1.mp4" title="Видео"></video>
+[Практическое задание](7_Seminar.md)
+[Домашнее задание](7_HomeWork.md)
+[Домашнее задание](7_HomeWork.py)
 
 #### Урок 8 Корреляционный анализ
 
