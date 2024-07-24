@@ -113,26 +113,28 @@
 [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793242/attachment/690bdccae12c3bfddcf3552c7b584ff0.pdf)
 <video controls src="https://gbcdn.mrgcdn.ru/uploads/record/326879/attachment/ceb50397ac2defffdb6a85a1131884b1.mp4" title="Видео"></video>
 [Практическое задание](7_Seminar.md)
+[Практическое задание](7_Seminar.py)
 [Домашнее задание](7_HomeWork.md)
 [Домашнее задание](7_HomeWork.py)
 
-#### Урок 8 Корреляционный анализ
+#### [Урок 8 Корреляционный анализ](https://gb.ru/lessons/447660)
 
-Презентация
-Видео
-Практическое задание
-Домашнее задание
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793241/attachment/b4b1621ab8979395aec20821cf3d58e6.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/327082/attachment/39013a0f44c44b70105c119993b4486b.mp4" title="Видео"></video>
+[Практическое задание](8_Seminar.ipynb)
+[Домашнее задание](8_HomeWork.md)
+[Домашнее задание](8_HomeWork.py)
 
-#### Урок 9 Линейная регрессия Логистическая регрессия
+#### [Урок 9 Линейная регрессия Логистическая регрессия](https://gb.ru/lessons/447661)
 
-Презентация
-Видео
-Практическое задание
-Домашнее задание
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793240/attachment/bf55b75ffe828e8084ab80ea32d3556e.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/320212/attachment/a8113f6ce97a7c0c120ead5c16050d6c.mp4" title="Видео"></video>
+[Практическое задание](9_Seminar.ipynb)
+[Домашнее задание](9_HomeWork.md)
 
-#### Урок 10 Дисперсионный анализ
+#### [Урок 10 Дисперсионный анализ](https://gb.ru/lessons/447662)
 
-Презентация
-Видео
+[Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4793239/attachment/ed707f93930315712f2853e5171cb039.pdf)
+<video controls src="https://gbcdn.mrgcdn.ru/uploads/record/320990/attachment/98f63c405f3215a667db3d09e4650f05.mp4" title="Видео"></video>
 Практическое задание
 Домашнее задание
