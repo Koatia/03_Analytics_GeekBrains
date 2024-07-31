@@ -16,7 +16,7 @@ my_list = [25, 10.5, 'Hello', True, (10, 20), 'Hello', 25]
 for i, element in enumerate(my_list, 1):
     number_output = 'Это целое число' if isinstance(element, int) else ''
     str_output = 'Это строка' if isinstance(element, str) else ''
-    
+
     print(f'Порядковый номер - {i};'
           f'Значение - {element};'
           f'Адрес в памяти - {id(element)};'

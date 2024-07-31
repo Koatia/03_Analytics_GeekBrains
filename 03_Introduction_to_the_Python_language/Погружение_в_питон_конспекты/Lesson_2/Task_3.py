@@ -31,7 +31,7 @@ def transfer_to_the_system(number: int, system: int) -> str:
         mod: str = str(number % system)
         result = mod + result
         number //= system
-        
+
     return result
 
 selection: int = system_selection()

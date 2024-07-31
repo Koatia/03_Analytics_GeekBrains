@@ -1,1 +1,0 @@
-## 12_Basics_of_Business_Process_Modeling_Introduction_to_Business_Modeling_(lectures)

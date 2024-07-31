@@ -7,8 +7,8 @@ from my_package.ex4 import exclude_numbers_with_sum_of_digits_8
 def main() -> None:
     for result in exclude_numbers_with_sum_of_digits_8():
         print(result, end=' ')
-    
+
 
 if __name__ == '__main__':
     main()
-    
+

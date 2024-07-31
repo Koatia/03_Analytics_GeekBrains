@@ -9,8 +9,8 @@ from my_package.ex5 import fizz_buzz_generator
 def main() -> None:
     for result in fizz_buzz_generator():
         print(result, end=' ')
- 
-    
+
+
 if __name__ == '__main__':
     main()
-    
+

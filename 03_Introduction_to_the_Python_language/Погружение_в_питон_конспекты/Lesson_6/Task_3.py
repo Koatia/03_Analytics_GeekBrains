@@ -9,8 +9,8 @@ from sys import argv
 def main() -> None:
     x: Generator[int, None, None] = (int(i) for i in argv[1:])
     guess_num(*x)
-    
+
 
 if __name__ == '__main__':
     main()
-    
+

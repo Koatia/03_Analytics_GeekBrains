@@ -10,6 +10,6 @@ def __main() -> None:
     text: str = "Hello, World!"
     result: list[int] = unique_unicode_codes(text)
     print(result)
-    
+
 if __name__ == '__main__':
     __main()

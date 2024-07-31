@@ -11,6 +11,6 @@ max_len = 0
 for item in data:
     if len(item) > max_len:
         max_len = len(item)
-        
+
 for i, item in enumerate(data, 1):
     print(f'{i}. {item:>{max_len}}')

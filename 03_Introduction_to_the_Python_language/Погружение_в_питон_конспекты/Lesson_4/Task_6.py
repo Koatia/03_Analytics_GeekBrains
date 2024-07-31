@@ -29,7 +29,7 @@ def sum_between_indexes(numbers: list[int], start_range: int, end_range: int) ->
     return total_sum
 
 def __main() -> None:
-    random_list_length: int = randint(MIN_RANDOM_LIST, MAX_RANDOM_LIST) 
+    random_list_length: int = randint(MIN_RANDOM_LIST, MAX_RANDOM_LIST)
     random_numbers: list[int] = [randint(MIN_RANDOM_NUM, MAX_RANDOM_NUM) for _ in range(random_list_length)]
     print(random_numbers)
 
@@ -38,7 +38,7 @@ def __main() -> None:
 
     result: int = sum_between_indexes(random_numbers, start_range, end_range)
     print("Сумма чисел в заданном диапазоне:", result)
-    
+
 if __name__ == '__main__':
     __main()
 

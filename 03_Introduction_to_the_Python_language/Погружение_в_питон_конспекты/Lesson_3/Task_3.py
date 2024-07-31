@@ -6,7 +6,7 @@ my_dict = {}
 
 for elem in my_tuple:
     elem_type = type(elem).__name__
-    
+
     if elem_type not in my_dict:
         my_dict[elem_type] = []
     my_dict[elem_type].append(elem)

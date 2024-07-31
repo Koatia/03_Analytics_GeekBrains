@@ -8,10 +8,10 @@ from typing import List
 def main() -> None:
     result = guessing(riddle, possible_answers, max_attempts)
     print(f'Код: {result}\n')
-    
+
 if __name__ == '__main__':
     riddle: str = 'Лёгонькое, маленькое, а на крышу не закинешь?'
     possible_answers: List[str] = ['Перо', 'Пёрышко', 'перо', 'пёрышко']
     max_attempts: int = 3
-    
+
     main()

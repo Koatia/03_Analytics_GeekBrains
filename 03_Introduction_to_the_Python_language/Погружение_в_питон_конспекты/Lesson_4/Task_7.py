@@ -4,7 +4,7 @@
 # Функция вычисления итоговой прибыли или убытка каждой компании
 def calculation_net_profit(company_data: dict[str, list[int]]) -> bool:
     for _, values in company_data.items():
-        total_profit: int = sum(values)  
+        total_profit: int = sum(values)
         if total_profit < 0:
             return False
     return True
@@ -19,6 +19,6 @@ def __main() -> None:
 
     result: bool = calculation_net_profit(company_data)
     print(result)
-    
+
 if __name__ == '__main__':
     __main()
