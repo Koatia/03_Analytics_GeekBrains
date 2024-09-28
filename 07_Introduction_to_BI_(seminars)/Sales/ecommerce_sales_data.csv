@@ -1,0 +1,2521 @@
+Date,Divisions,Channels,Product category,Cash,Actual Sales,Planned Sales
+2022-01-31,Север,B2C,Electronics,Cash,375,315
+2022-01-31,Север,B2C,Electronics,Non-Cash,696,585
+2022-01-31,Север,B2C,Clothing,Cash,320,262
+2022-01-31,Север,B2C,Clothing,Non-Cash,595,488
+2022-01-31,Север,B2C,Home & Kitchen,Cash,118,158
+2022-01-31,Север,B2C,Home & Kitchen,Non-Cash,219,292
+2022-01-31,Север,B2C,Sports,Cash,164,210
+2022-01-31,Север,B2C,Sports,Non-Cash,304,390
+2022-01-31,Север,B2C,Books,Cash,82,105
+2022-01-31,Север,B2C,Books,Non-Cash,152,195
+2022-01-31,Север,B2B,Electronics,Cash,479,420
+2022-01-31,Север,B2B,Electronics,Non-Cash,889,780
+2022-01-31,Север,B2B,Clothing,Cash,294,350
+2022-01-31,Север,B2B,Clothing,Non-Cash,546,650
+2022-01-31,Север,B2B,Home & Kitchen,Cash,197,210
+2022-01-31,Север,B2B,Home & Kitchen,Non-Cash,367,390
+2022-01-31,Север,B2B,Sports,Cash,269,280
+2022-01-31,Север,B2B,Sports,Non-Cash,499,520
+2022-01-31,Север,B2B,Books,Cash,155,140
+2022-01-31,Север,B2B,Books,Non-Cash,289,260
+2022-01-31,Север,Mobile Commerce,Electronics,Cash,370,378
+2022-01-31,Север,Mobile Commerce,Electronics,Non-Cash,688,702
+2022-01-31,Север,Mobile Commerce,Clothing,Cash,255,315
+2022-01-31,Север,Mobile Commerce,Clothing,Non-Cash,474,585
+2022-01-31,Север,Mobile Commerce,Home & Kitchen,Cash,187,189
+2022-01-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,347,351
+2022-01-31,Север,Mobile Commerce,Sports,Cash,249,252
+2022-01-31,Север,Mobile Commerce,Sports,Non-Cash,463,468
+2022-01-31,Север,Mobile Commerce,Books,Cash,110,126
+2022-01-31,Север,Mobile Commerce,Books,Non-Cash,204,234
+2022-01-31,Запад,B2C,Electronics,Cash,359,472
+2022-01-31,Запад,B2C,Electronics,Non-Cash,667,878
+2022-01-31,Запад,B2C,Clothing,Cash,445,394
+2022-01-31,Запад,B2C,Clothing,Non-Cash,826,731
+2022-01-31,Запад,B2C,Home & Kitchen,Cash,269,236
+2022-01-31,Запад,B2C,Home & Kitchen,Non-Cash,500,439
+2022-01-31,Запад,B2C,Sports,Cash,309,315
+2022-01-31,Запад,B2C,Sports,Non-Cash,573,585
+2022-01-31,Запад,B2C,Books,Cash,191,158
+2022-01-31,Запад,B2C,Books,Non-Cash,353,292
+2022-01-31,Запад,B2B,Electronics,Cash,624,630
+2022-01-31,Запад,B2B,Electronics,Non-Cash,1158,1170
+2022-01-31,Запад,B2B,Clothing,Cash,483,525
+2022-01-31,Запад,B2B,Clothing,Non-Cash,897,975
+2022-01-31,Запад,B2B,Home & Kitchen,Cash,353,315
+2022-01-31,Запад,B2B,Home & Kitchen,Non-Cash,655,585
+2022-01-31,Запад,B2B,Sports,Cash,420,420
+2022-01-31,Запад,B2B,Sports,Non-Cash,780,780
+2022-01-31,Запад,B2B,Books,Cash,185,210
+2022-01-31,Запад,B2B,Books,Non-Cash,343,390
+2022-01-31,Запад,Mobile Commerce,Electronics,Cash,471,567
+2022-01-31,Запад,Mobile Commerce,Electronics,Non-Cash,874,1053
+2022-01-31,Запад,Mobile Commerce,Clothing,Cash,396,472
+2022-01-31,Запад,Mobile Commerce,Clothing,Non-Cash,738,878
+2022-01-31,Запад,Mobile Commerce,Home & Kitchen,Cash,270,284
+2022-01-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,500,526
+2022-01-31,Запад,Mobile Commerce,Sports,Cash,344,378
+2022-01-31,Запад,Mobile Commerce,Sports,Non-Cash,639,702
+2022-01-31,Запад,Mobile Commerce,Books,Cash,151,189
+2022-01-31,Запад,Mobile Commerce,Books,Non-Cash,281,351
+2022-01-31,Восток,B2C,Electronics,Cash,709,788
+2022-01-31,Восток,B2C,Electronics,Non-Cash,1316,1462
+2022-01-31,Восток,B2C,Clothing,Cash,800,656
+2022-01-31,Восток,B2C,Clothing,Non-Cash,1487,1219
+2022-01-31,Восток,B2C,Home & Kitchen,Cash,296,394
+2022-01-31,Восток,B2C,Home & Kitchen,Non-Cash,548,731
+2022-01-31,Восток,B2C,Sports,Cash,488,525
+2022-01-31,Восток,B2C,Sports,Non-Cash,907,975
+2022-01-31,Восток,B2C,Books,Cash,288,262
+2022-01-31,Восток,B2C,Books,Non-Cash,537,488
+2022-01-31,Восток,B2B,Electronics,Cash,1040,1050
+2022-01-31,Восток,B2B,Electronics,Non-Cash,1930,1950
+2022-01-31,Восток,B2B,Clothing,Cash,1085,875
+2022-01-31,Восток,B2B,Clothing,Non-Cash,2015,1625
+2022-01-31,Восток,B2B,Home & Kitchen,Cash,546,525
+2022-01-31,Восток,B2B,Home & Kitchen,Non-Cash,1014,975
+2022-01-31,Восток,B2B,Sports,Cash,658,700
+2022-01-31,Восток,B2B,Sports,Non-Cash,1222,1300
+2022-01-31,Восток,B2B,Books,Cash,329,350
+2022-01-31,Восток,B2B,Books,Non-Cash,611,650
+2022-01-31,Восток,Mobile Commerce,Electronics,Cash,841,945
+2022-01-31,Восток,Mobile Commerce,Electronics,Non-Cash,1562,1755
+2022-01-31,Восток,Mobile Commerce,Clothing,Cash,898,788
+2022-01-31,Восток,Mobile Commerce,Clothing,Non-Cash,1667,1462
+2022-01-31,Восток,Mobile Commerce,Home & Kitchen,Cash,505,472
+2022-01-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,939,878
+2022-01-31,Восток,Mobile Commerce,Sports,Cash,479,630
+2022-01-31,Восток,Mobile Commerce,Sports,Non-Cash,889,1170
+2022-01-31,Восток,Mobile Commerce,Books,Cash,265,315
+2022-01-31,Восток,Mobile Commerce,Books,Non-Cash,491,585
+2022-02-28,Север,B2C,Electronics,Cash,337,315
+2022-02-28,Север,B2C,Electronics,Non-Cash,626,585
+2022-02-28,Север,B2C,Clothing,Cash,278,262
+2022-02-28,Север,B2C,Clothing,Non-Cash,517,488
+2022-02-28,Север,B2C,Home & Kitchen,Cash,134,158
+2022-02-28,Север,B2C,Home & Kitchen,Non-Cash,248,292
+2022-02-28,Север,B2C,Sports,Cash,206,210
+2022-02-28,Север,B2C,Sports,Non-Cash,382,390
+2022-02-28,Север,B2C,Books,Cash,116,105
+2022-02-28,Север,B2C,Books,Non-Cash,215,195
+2022-02-28,Север,B2B,Electronics,Cash,361,420
+2022-02-28,Север,B2B,Electronics,Non-Cash,671,780
+2022-02-28,Север,B2B,Clothing,Cash,360,350
+2022-02-28,Север,B2B,Clothing,Non-Cash,670,650
+2022-02-28,Север,B2B,Home & Kitchen,Cash,229,210
+2022-02-28,Север,B2B,Home & Kitchen,Non-Cash,425,390
+2022-02-28,Север,B2B,Sports,Cash,210,280
+2022-02-28,Север,B2B,Sports,Non-Cash,390,520
+2022-02-28,Север,B2B,Books,Cash,105,140
+2022-02-28,Север,B2B,Books,Non-Cash,195,260
+2022-02-28,Север,Mobile Commerce,Electronics,Cash,420,378
+2022-02-28,Север,Mobile Commerce,Electronics,Non-Cash,779,702
+2022-02-28,Север,Mobile Commerce,Clothing,Cash,252,315
+2022-02-28,Север,Mobile Commerce,Clothing,Non-Cash,468,585
+2022-02-28,Север,Mobile Commerce,Home & Kitchen,Cash,214,189
+2022-02-28,Север,Mobile Commerce,Home & Kitchen,Non-Cash,397,351
+2022-02-28,Север,Mobile Commerce,Sports,Cash,290,252
+2022-02-28,Север,Mobile Commerce,Sports,Non-Cash,538,468
+2022-02-28,Север,Mobile Commerce,Books,Cash,116,126
+2022-02-28,Север,Mobile Commerce,Books,Non-Cash,215,234
+2022-02-28,Запад,B2C,Electronics,Cash,425,472
+2022-02-28,Запад,B2C,Electronics,Non-Cash,790,878
+2022-02-28,Запад,B2C,Clothing,Cash,311,394
+2022-02-28,Запад,B2C,Clothing,Non-Cash,577,731
+2022-02-28,Запад,B2C,Home & Kitchen,Cash,274,236
+2022-02-28,Запад,B2C,Home & Kitchen,Non-Cash,509,439
+2022-02-28,Запад,B2C,Sports,Cash,369,315
+2022-02-28,Запад,B2C,Sports,Non-Cash,684,585
+2022-02-28,Запад,B2C,Books,Cash,167,158
+2022-02-28,Запад,B2C,Books,Non-Cash,310,292
+2022-02-28,Запад,B2B,Electronics,Cash,479,630
+2022-02-28,Запад,B2B,Electronics,Non-Cash,889,1170
+2022-02-28,Запад,B2B,Clothing,Cash,399,525
+2022-02-28,Запад,B2B,Clothing,Non-Cash,741,975
+2022-02-28,Запад,B2B,Home & Kitchen,Cash,359,315
+2022-02-28,Запад,B2B,Home & Kitchen,Non-Cash,667,585
+2022-02-28,Запад,B2B,Sports,Cash,487,420
+2022-02-28,Запад,B2B,Sports,Non-Cash,905,780
+2022-02-28,Запад,B2B,Books,Cash,231,210
+2022-02-28,Запад,B2B,Books,Non-Cash,429,390
+2022-02-28,Запад,Mobile Commerce,Electronics,Cash,641,567
+2022-02-28,Запад,Mobile Commerce,Electronics,Non-Cash,1190,1053
+2022-02-28,Запад,Mobile Commerce,Clothing,Cash,406,472
+2022-02-28,Запад,Mobile Commerce,Clothing,Non-Cash,755,878
+2022-02-28,Запад,Mobile Commerce,Home & Kitchen,Cash,344,284
+2022-02-28,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,636,526
+2022-02-28,Запад,Mobile Commerce,Sports,Cash,352,378
+2022-02-28,Запад,Mobile Commerce,Sports,Non-Cash,653,702
+2022-02-28,Запад,Mobile Commerce,Books,Cash,193,189
+2022-02-28,Запад,Mobile Commerce,Books,Non-Cash,358,351
+2022-02-28,Восток,B2C,Electronics,Cash,591,788
+2022-02-28,Восток,B2C,Electronics,Non-Cash,1096,1462
+2022-02-28,Восток,B2C,Clothing,Cash,584,656
+2022-02-28,Восток,B2C,Clothing,Non-Cash,1085,1219
+2022-02-28,Восток,B2C,Home & Kitchen,Cash,433,394
+2022-02-28,Восток,B2C,Home & Kitchen,Non-Cash,804,731
+2022-02-28,Восток,B2C,Sports,Cash,457,525
+2022-02-28,Восток,B2C,Sports,Non-Cash,848,975
+2022-02-28,Восток,B2C,Books,Cash,307,262
+2022-02-28,Восток,B2C,Books,Non-Cash,571,488
+2022-02-28,Восток,B2B,Electronics,Cash,998,1050
+2022-02-28,Восток,B2B,Electronics,Non-Cash,1852,1950
+2022-02-28,Восток,B2B,Clothing,Cash,752,875
+2022-02-28,Восток,B2B,Clothing,Non-Cash,1398,1625
+2022-02-28,Восток,B2B,Home & Kitchen,Cash,415,525
+2022-02-28,Восток,B2B,Home & Kitchen,Non-Cash,770,975
+2022-02-28,Восток,B2B,Sports,Cash,567,700
+2022-02-28,Восток,B2B,Sports,Non-Cash,1053,1300
+2022-02-28,Восток,B2B,Books,Cash,276,350
+2022-02-28,Восток,B2B,Books,Non-Cash,514,650
+2022-02-28,Восток,Mobile Commerce,Electronics,Cash,1153,945
+2022-02-28,Восток,Mobile Commerce,Electronics,Non-Cash,2141,1755
+2022-02-28,Восток,Mobile Commerce,Clothing,Cash,615,788
+2022-02-28,Восток,Mobile Commerce,Clothing,Non-Cash,1140,1462
+2022-02-28,Восток,Mobile Commerce,Home & Kitchen,Cash,411,472
+2022-02-28,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,764,878
+2022-02-28,Восток,Mobile Commerce,Sports,Cash,699,630
+2022-02-28,Восток,Mobile Commerce,Sports,Non-Cash,1299,1170
+2022-02-28,Восток,Mobile Commerce,Books,Cash,362,315
+2022-02-28,Восток,Mobile Commerce,Books,Non-Cash,673,585
+2022-03-31,Север,B2C,Electronics,Cash,280,315
+2022-03-31,Север,B2C,Electronics,Non-Cash,521,585
+2022-03-31,Север,B2C,Clothing,Cash,236,262
+2022-03-31,Север,B2C,Clothing,Non-Cash,439,488
+2022-03-31,Север,B2C,Home & Kitchen,Cash,150,158
+2022-03-31,Север,B2C,Home & Kitchen,Non-Cash,277,292
+2022-03-31,Север,B2C,Sports,Cash,231,210
+2022-03-31,Север,B2C,Sports,Non-Cash,429,390
+2022-03-31,Север,B2C,Books,Cash,103,105
+2022-03-31,Север,B2C,Books,Non-Cash,191,195
+2022-03-31,Север,B2B,Electronics,Cash,378,420
+2022-03-31,Север,B2B,Electronics,Non-Cash,702,780
+2022-03-31,Север,B2B,Clothing,Cash,308,350
+2022-03-31,Север,B2B,Clothing,Non-Cash,572,650
+2022-03-31,Север,B2B,Home & Kitchen,Cash,202,210
+2022-03-31,Север,B2B,Home & Kitchen,Non-Cash,374,390
+2022-03-31,Север,B2B,Sports,Cash,344,280
+2022-03-31,Север,B2B,Sports,Non-Cash,640,520
+2022-03-31,Север,B2B,Books,Cash,174,140
+2022-03-31,Север,B2B,Books,Non-Cash,322,260
+2022-03-31,Север,Mobile Commerce,Electronics,Cash,302,378
+2022-03-31,Север,Mobile Commerce,Electronics,Non-Cash,562,702
+2022-03-31,Север,Mobile Commerce,Clothing,Cash,365,315
+2022-03-31,Север,Mobile Commerce,Clothing,Non-Cash,679,585
+2022-03-31,Север,Mobile Commerce,Home & Kitchen,Cash,208,189
+2022-03-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,386,351
+2022-03-31,Север,Mobile Commerce,Sports,Cash,189,252
+2022-03-31,Север,Mobile Commerce,Sports,Non-Cash,351,468
+2022-03-31,Север,Mobile Commerce,Books,Cash,134,126
+2022-03-31,Север,Mobile Commerce,Books,Non-Cash,248,234
+2022-03-31,Запад,B2C,Electronics,Cash,378,472
+2022-03-31,Запад,B2C,Electronics,Non-Cash,702,878
+2022-03-31,Запад,B2C,Clothing,Cash,414,394
+2022-03-31,Запад,B2C,Clothing,Non-Cash,768,731
+2022-03-31,Запад,B2C,Home & Kitchen,Cash,177,236
+2022-03-31,Запад,B2C,Home & Kitchen,Non-Cash,329,439
+2022-03-31,Запад,B2C,Sports,Cash,391,315
+2022-03-31,Запад,B2C,Sports,Non-Cash,725,585
+2022-03-31,Запад,B2C,Books,Cash,175,158
+2022-03-31,Запад,B2C,Books,Non-Cash,324,292
+2022-03-31,Запад,B2B,Electronics,Cash,687,630
+2022-03-31,Запад,B2B,Electronics,Non-Cash,1275,1170
+2022-03-31,Запад,B2B,Clothing,Cash,646,525
+2022-03-31,Запад,B2B,Clothing,Non-Cash,1199,975
+2022-03-31,Запад,B2B,Home & Kitchen,Cash,328,315
+2022-03-31,Запад,B2B,Home & Kitchen,Non-Cash,608,585
+2022-03-31,Запад,B2B,Sports,Cash,328,420
+2022-03-31,Запад,B2B,Sports,Non-Cash,608,780
+2022-03-31,Запад,B2B,Books,Cash,229,210
+2022-03-31,Запад,B2B,Books,Non-Cash,425,390
+2022-03-31,Запад,Mobile Commerce,Electronics,Cash,663,567
+2022-03-31,Запад,Mobile Commerce,Electronics,Non-Cash,1232,1053
+2022-03-31,Запад,Mobile Commerce,Clothing,Cash,415,472
+2022-03-31,Запад,Mobile Commerce,Clothing,Non-Cash,773,878
+2022-03-31,Запад,Mobile Commerce,Home & Kitchen,Cash,349,284
+2022-03-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,647,526
+2022-03-31,Запад,Mobile Commerce,Sports,Cash,431,378
+2022-03-31,Запад,Mobile Commerce,Sports,Non-Cash,800,702
+2022-03-31,Запад,Mobile Commerce,Books,Cash,181,189
+2022-03-31,Запад,Mobile Commerce,Books,Non-Cash,337,351
+2022-03-31,Восток,B2C,Electronics,Cash,662,788
+2022-03-31,Восток,B2C,Electronics,Non-Cash,1228,1462
+2022-03-31,Восток,B2C,Clothing,Cash,492,656
+2022-03-31,Восток,B2C,Clothing,Non-Cash,914,1219
+2022-03-31,Восток,B2C,Home & Kitchen,Cash,335,394
+2022-03-31,Восток,B2C,Home & Kitchen,Non-Cash,621,731
+2022-03-31,Восток,B2C,Sports,Cash,620,525
+2022-03-31,Восток,B2C,Sports,Non-Cash,1150,975
+2022-03-31,Восток,B2C,Books,Cash,257,262
+2022-03-31,Восток,B2C,Books,Non-Cash,478,488
+2022-03-31,Восток,B2B,Electronics,Cash,808,1050
+2022-03-31,Восток,B2B,Electronics,Non-Cash,1502,1950
+2022-03-31,Восток,B2B,Clothing,Cash,954,875
+2022-03-31,Восток,B2B,Clothing,Non-Cash,1771,1625
+2022-03-31,Восток,B2B,Home & Kitchen,Cash,578,525
+2022-03-31,Восток,B2B,Home & Kitchen,Non-Cash,1072,975
+2022-03-31,Восток,B2B,Sports,Cash,735,700
+2022-03-31,Восток,B2B,Sports,Non-Cash,1365,1300
+2022-03-31,Восток,B2B,Books,Cash,273,350
+2022-03-31,Восток,B2B,Books,Non-Cash,507,650
+2022-03-31,Восток,Mobile Commerce,Electronics,Cash,879,945
+2022-03-31,Восток,Mobile Commerce,Electronics,Non-Cash,1632,1755
+2022-03-31,Восток,Mobile Commerce,Clothing,Cash,953,788
+2022-03-31,Восток,Mobile Commerce,Clothing,Non-Cash,1769,1462
+2022-03-31,Восток,Mobile Commerce,Home & Kitchen,Cash,519,472
+2022-03-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,966,878
+2022-03-31,Восток,Mobile Commerce,Sports,Cash,598,630
+2022-03-31,Восток,Mobile Commerce,Sports,Non-Cash,1112,1170
+2022-03-31,Восток,Mobile Commerce,Books,Cash,290,315
+2022-03-31,Восток,Mobile Commerce,Books,Non-Cash,538,585
+2022-04-30,Север,B2C,Electronics,Cash,321,315
+2022-04-30,Север,B2C,Electronics,Non-Cash,597,585
+2022-04-30,Север,B2C,Clothing,Cash,233,262
+2022-04-30,Север,B2C,Clothing,Non-Cash,434,488
+2022-04-30,Север,B2C,Home & Kitchen,Cash,183,158
+2022-04-30,Север,B2C,Home & Kitchen,Non-Cash,339,292
+2022-04-30,Север,B2C,Sports,Cash,160,210
+2022-04-30,Север,B2C,Sports,Non-Cash,296,390
+2022-04-30,Север,B2C,Books,Cash,117,105
+2022-04-30,Север,B2C,Books,Non-Cash,216,195
+2022-04-30,Север,B2B,Electronics,Cash,357,420
+2022-04-30,Север,B2B,Electronics,Non-Cash,663,780
+2022-04-30,Север,B2B,Clothing,Cash,340,350
+2022-04-30,Север,B2B,Clothing,Non-Cash,630,650
+2022-04-30,Север,B2B,Home & Kitchen,Cash,248,210
+2022-04-30,Север,B2B,Home & Kitchen,Non-Cash,460,390
+2022-04-30,Север,B2B,Sports,Cash,322,280
+2022-04-30,Север,B2B,Sports,Non-Cash,598,520
+2022-04-30,Север,B2B,Books,Cash,120,140
+2022-04-30,Север,B2B,Books,Non-Cash,224,260
+2022-04-30,Север,Mobile Commerce,Electronics,Cash,291,378
+2022-04-30,Север,Mobile Commerce,Electronics,Non-Cash,541,702
+2022-04-30,Север,Mobile Commerce,Clothing,Cash,287,315
+2022-04-30,Север,Mobile Commerce,Clothing,Non-Cash,532,585
+2022-04-30,Север,Mobile Commerce,Home & Kitchen,Cash,202,189
+2022-04-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,376,351
+2022-04-30,Север,Mobile Commerce,Sports,Cash,189,252
+2022-04-30,Север,Mobile Commerce,Sports,Non-Cash,351,468
+2022-04-30,Север,Mobile Commerce,Books,Cash,142,126
+2022-04-30,Север,Mobile Commerce,Books,Non-Cash,264,234
+2022-04-30,Запад,B2C,Electronics,Cash,444,472
+2022-04-30,Запад,B2C,Electronics,Non-Cash,825,878
+2022-04-30,Запад,B2C,Clothing,Cash,477,394
+2022-04-30,Запад,B2C,Clothing,Non-Cash,885,731
+2022-04-30,Запад,B2C,Home & Kitchen,Cash,276,236
+2022-04-30,Запад,B2C,Home & Kitchen,Non-Cash,514,439
+2022-04-30,Запад,B2C,Sports,Cash,362,315
+2022-04-30,Запад,B2C,Sports,Non-Cash,673,585
+2022-04-30,Запад,B2C,Books,Cash,139,158
+2022-04-30,Запад,B2C,Books,Non-Cash,257,292
+2022-04-30,Запад,B2B,Electronics,Cash,662,630
+2022-04-30,Запад,B2B,Electronics,Non-Cash,1228,1170
+2022-04-30,Запад,B2B,Clothing,Cash,520,525
+2022-04-30,Запад,B2B,Clothing,Non-Cash,965,975
+2022-04-30,Запад,B2B,Home & Kitchen,Cash,243,315
+2022-04-30,Запад,B2B,Home & Kitchen,Non-Cash,450,585
+2022-04-30,Запад,B2B,Sports,Cash,328,420
+2022-04-30,Запад,B2B,Sports,Non-Cash,608,780
+2022-04-30,Запад,B2B,Books,Cash,220,210
+2022-04-30,Запад,B2B,Books,Non-Cash,410,390
+2022-04-30,Запад,Mobile Commerce,Electronics,Cash,618,567
+2022-04-30,Запад,Mobile Commerce,Electronics,Non-Cash,1148,1053
+2022-04-30,Запад,Mobile Commerce,Clothing,Cash,557,472
+2022-04-30,Запад,Mobile Commerce,Clothing,Non-Cash,1036,878
+2022-04-30,Запад,Mobile Commerce,Home & Kitchen,Cash,250,284
+2022-04-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,463,526
+2022-04-30,Запад,Mobile Commerce,Sports,Cash,465,378
+2022-04-30,Запад,Mobile Commerce,Sports,Non-Cash,863,702
+2022-04-30,Запад,Mobile Commerce,Books,Cash,217,189
+2022-04-30,Запад,Mobile Commerce,Books,Non-Cash,404,351
+2022-04-30,Восток,B2C,Electronics,Cash,654,788
+2022-04-30,Восток,B2C,Electronics,Non-Cash,1213,1462
+2022-04-30,Восток,B2C,Clothing,Cash,617,656
+2022-04-30,Восток,B2C,Clothing,Non-Cash,1146,1219
+2022-04-30,Восток,B2C,Home & Kitchen,Cash,418,394
+2022-04-30,Восток,B2C,Home & Kitchen,Non-Cash,775,731
+2022-04-30,Восток,B2C,Sports,Cash,436,525
+2022-04-30,Восток,B2C,Sports,Non-Cash,809,975
+2022-04-30,Восток,B2C,Books,Cash,265,262
+2022-04-30,Восток,B2C,Books,Non-Cash,493,488
+2022-04-30,Восток,B2B,Electronics,Cash,808,1050
+2022-04-30,Восток,B2B,Electronics,Non-Cash,1502,1950
+2022-04-30,Восток,B2B,Clothing,Cash,682,875
+2022-04-30,Восток,B2B,Clothing,Non-Cash,1268,1625
+2022-04-30,Восток,B2B,Home & Kitchen,Cash,625,525
+2022-04-30,Восток,B2B,Home & Kitchen,Non-Cash,1160,975
+2022-04-30,Восток,B2B,Sports,Cash,623,700
+2022-04-30,Восток,B2B,Sports,Non-Cash,1157,1300
+2022-04-30,Восток,B2B,Books,Cash,374,350
+2022-04-30,Восток,B2B,Books,Non-Cash,696,650
+2022-04-30,Восток,Mobile Commerce,Electronics,Cash,747,945
+2022-04-30,Восток,Mobile Commerce,Electronics,Non-Cash,1386,1755
+2022-04-30,Восток,Mobile Commerce,Clothing,Cash,615,788
+2022-04-30,Восток,Mobile Commerce,Clothing,Non-Cash,1140,1462
+2022-04-30,Восток,Mobile Commerce,Home & Kitchen,Cash,566,472
+2022-04-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,1054,878
+2022-04-30,Восток,Mobile Commerce,Sports,Cash,542,630
+2022-04-30,Восток,Mobile Commerce,Sports,Non-Cash,1006,1170
+2022-04-30,Восток,Mobile Commerce,Books,Cash,306,315
+2022-04-30,Восток,Mobile Commerce,Books,Non-Cash,567,585
+2022-05-31,Север,B2C,Electronics,Cash,277,315
+2022-05-31,Север,B2C,Electronics,Non-Cash,515,585
+2022-05-31,Север,B2C,Clothing,Cash,314,262
+2022-05-31,Север,B2C,Clothing,Non-Cash,586,488
+2022-05-31,Север,B2C,Home & Kitchen,Cash,136,158
+2022-05-31,Север,B2C,Home & Kitchen,Non-Cash,251,292
+2022-05-31,Север,B2C,Sports,Cash,191,210
+2022-05-31,Север,B2C,Sports,Non-Cash,355,390
+2022-05-31,Север,B2C,Books,Cash,104,105
+2022-05-31,Север,B2C,Books,Non-Cash,193,195
+2022-05-31,Север,B2B,Electronics,Cash,437,420
+2022-05-31,Север,B2B,Electronics,Non-Cash,811,780
+2022-05-31,Север,B2B,Clothing,Cash,336,350
+2022-05-31,Север,B2B,Clothing,Non-Cash,624,650
+2022-05-31,Север,B2B,Home & Kitchen,Cash,254,210
+2022-05-31,Север,B2B,Home & Kitchen,Non-Cash,472,390
+2022-05-31,Север,B2B,Sports,Cash,280,280
+2022-05-31,Север,B2B,Sports,Non-Cash,520,520
+2022-05-31,Север,B2B,Books,Cash,127,140
+2022-05-31,Север,B2B,Books,Non-Cash,237,260
+2022-05-31,Север,Mobile Commerce,Electronics,Cash,355,378
+2022-05-31,Север,Mobile Commerce,Electronics,Non-Cash,660,702
+2022-05-31,Север,Mobile Commerce,Clothing,Cash,340,315
+2022-05-31,Север,Mobile Commerce,Clothing,Non-Cash,632,585
+2022-05-31,Север,Mobile Commerce,Home & Kitchen,Cash,217,189
+2022-05-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,404,351
+2022-05-31,Север,Mobile Commerce,Sports,Cash,270,252
+2022-05-31,Север,Mobile Commerce,Sports,Non-Cash,501,468
+2022-05-31,Север,Mobile Commerce,Books,Cash,140,126
+2022-05-31,Север,Mobile Commerce,Books,Non-Cash,260,234
+2022-05-31,Запад,B2C,Electronics,Cash,382,472
+2022-05-31,Запад,B2C,Electronics,Non-Cash,711,878
+2022-05-31,Запад,B2C,Clothing,Cash,378,394
+2022-05-31,Запад,B2C,Clothing,Non-Cash,702,731
+2022-05-31,Запад,B2C,Home & Kitchen,Cash,250,236
+2022-05-31,Запад,B2C,Home & Kitchen,Non-Cash,465,439
+2022-05-31,Запад,B2C,Sports,Cash,277,315
+2022-05-31,Запад,B2C,Sports,Non-Cash,515,585
+2022-05-31,Запад,B2C,Books,Cash,130,158
+2022-05-31,Запад,B2C,Books,Non-Cash,239,292
+2022-05-31,Запад,B2B,Electronics,Cash,624,630
+2022-05-31,Запад,B2B,Electronics,Non-Cash,1158,1170
+2022-05-31,Запад,B2B,Clothing,Cash,472,525
+2022-05-31,Запад,B2B,Clothing,Non-Cash,878,975
+2022-05-31,Запад,B2B,Home & Kitchen,Cash,365,315
+2022-05-31,Запад,B2B,Home & Kitchen,Non-Cash,679,585
+2022-05-31,Запад,B2B,Sports,Cash,391,420
+2022-05-31,Запад,B2B,Sports,Non-Cash,725,780
+2022-05-31,Запад,B2B,Books,Cash,241,210
+2022-05-31,Запад,B2B,Books,Non-Cash,448,390
+2022-05-31,Запад,Mobile Commerce,Electronics,Cash,510,567
+2022-05-31,Запад,Mobile Commerce,Electronics,Non-Cash,948,1053
+2022-05-31,Запад,Mobile Commerce,Clothing,Cash,406,472
+2022-05-31,Запад,Mobile Commerce,Clothing,Non-Cash,755,878
+2022-05-31,Запад,Mobile Commerce,Home & Kitchen,Cash,321,284
+2022-05-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,594,526
+2022-05-31,Запад,Mobile Commerce,Sports,Cash,461,378
+2022-05-31,Запад,Mobile Commerce,Sports,Non-Cash,856,702
+2022-05-31,Запад,Mobile Commerce,Books,Cash,197,189
+2022-05-31,Запад,Mobile Commerce,Books,Non-Cash,365,351
+2022-05-31,Восток,B2C,Electronics,Cash,599,788
+2022-05-31,Восток,B2C,Electronics,Non-Cash,1111,1462
+2022-05-31,Восток,B2C,Clothing,Cash,695,656
+2022-05-31,Восток,B2C,Clothing,Non-Cash,1292,1219
+2022-05-31,Восток,B2C,Home & Kitchen,Cash,469,394
+2022-05-31,Восток,B2C,Home & Kitchen,Non-Cash,870,731
+2022-05-31,Восток,B2C,Sports,Cash,520,525
+2022-05-31,Восток,B2C,Sports,Non-Cash,965,975
+2022-05-31,Восток,B2C,Books,Cash,259,262
+2022-05-31,Восток,B2C,Books,Non-Cash,483,488
+2022-05-31,Восток,B2B,Electronics,Cash,819,1050
+2022-05-31,Восток,B2B,Electronics,Non-Cash,1521,1950
+2022-05-31,Восток,B2B,Clothing,Cash,814,875
+2022-05-31,Восток,B2B,Clothing,Non-Cash,1511,1625
+2022-05-31,Восток,B2B,Home & Kitchen,Cash,640,525
+2022-05-31,Восток,B2B,Home & Kitchen,Non-Cash,1190,975
+2022-05-31,Восток,B2B,Sports,Cash,546,700
+2022-05-31,Восток,B2B,Sports,Non-Cash,1014,1300
+2022-05-31,Восток,B2B,Books,Cash,410,350
+2022-05-31,Восток,B2B,Books,Non-Cash,760,650
+2022-05-31,Восток,Mobile Commerce,Electronics,Cash,822,945
+2022-05-31,Восток,Mobile Commerce,Electronics,Non-Cash,1527,1755
+2022-05-31,Восток,Mobile Commerce,Clothing,Cash,890,788
+2022-05-31,Восток,Mobile Commerce,Clothing,Non-Cash,1652,1462
+2022-05-31,Восток,Mobile Commerce,Home & Kitchen,Cash,519,472
+2022-05-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,966,878
+2022-05-31,Восток,Mobile Commerce,Sports,Cash,611,630
+2022-05-31,Восток,Mobile Commerce,Sports,Non-Cash,1135,1170
+2022-05-31,Восток,Mobile Commerce,Books,Cash,252,315
+2022-05-31,Восток,Mobile Commerce,Books,Non-Cash,468,585
+2022-06-30,Север,B2C,Electronics,Cash,309,315
+2022-06-30,Север,B2C,Electronics,Non-Cash,573,585
+2022-06-30,Север,B2C,Clothing,Cash,309,262
+2022-06-30,Север,B2C,Clothing,Non-Cash,576,488
+2022-06-30,Север,B2C,Home & Kitchen,Cash,169,158
+2022-06-30,Север,B2C,Home & Kitchen,Non-Cash,312,292
+2022-06-30,Север,B2C,Sports,Cash,181,210
+2022-06-30,Север,B2C,Sports,Non-Cash,335,390
+2022-06-30,Север,B2C,Books,Cash,121,105
+2022-06-30,Север,B2C,Books,Non-Cash,224,195
+2022-06-30,Север,B2B,Electronics,Cash,399,420
+2022-06-30,Север,B2B,Electronics,Non-Cash,741,780
+2022-06-30,Север,B2B,Clothing,Cash,298,350
+2022-06-30,Север,B2B,Clothing,Non-Cash,552,650
+2022-06-30,Север,B2B,Home & Kitchen,Cash,248,210
+2022-06-30,Север,B2B,Home & Kitchen,Non-Cash,460,390
+2022-06-30,Север,B2B,Sports,Cash,314,280
+2022-06-30,Север,B2B,Sports,Non-Cash,582,520
+2022-06-30,Север,B2B,Books,Cash,144,140
+2022-06-30,Север,B2B,Books,Non-Cash,268,260
+2022-06-30,Север,Mobile Commerce,Electronics,Cash,461,378
+2022-06-30,Север,Mobile Commerce,Electronics,Non-Cash,856,702
+2022-06-30,Север,Mobile Commerce,Clothing,Cash,362,315
+2022-06-30,Север,Mobile Commerce,Clothing,Non-Cash,673,585
+2022-06-30,Север,Mobile Commerce,Home & Kitchen,Cash,146,189
+2022-06-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,270,351
+2022-06-30,Север,Mobile Commerce,Sports,Cash,257,252
+2022-06-30,Север,Mobile Commerce,Sports,Non-Cash,477,468
+2022-06-30,Север,Mobile Commerce,Books,Cash,118,126
+2022-06-30,Север,Mobile Commerce,Books,Non-Cash,220,234
+2022-06-30,Запад,B2C,Electronics,Cash,472,472
+2022-06-30,Запад,B2C,Electronics,Non-Cash,878,878
+2022-06-30,Запад,B2C,Clothing,Cash,386,394
+2022-06-30,Запад,B2C,Clothing,Non-Cash,716,731
+2022-06-30,Запад,B2C,Home & Kitchen,Cash,286,236
+2022-06-30,Запад,B2C,Home & Kitchen,Non-Cash,531,439
+2022-06-30,Запад,B2C,Sports,Cash,299,315
+2022-06-30,Запад,B2C,Sports,Non-Cash,556,585
+2022-06-30,Запад,B2C,Books,Cash,164,158
+2022-06-30,Запад,B2C,Books,Non-Cash,304,292
+2022-06-30,Запад,B2B,Electronics,Cash,491,630
+2022-06-30,Запад,B2B,Electronics,Non-Cash,913,1170
+2022-06-30,Запад,B2B,Clothing,Cash,578,525
+2022-06-30,Запад,B2B,Clothing,Non-Cash,1072,975
+2022-06-30,Запад,B2B,Home & Kitchen,Cash,359,315
+2022-06-30,Запад,B2B,Home & Kitchen,Non-Cash,667,585
+2022-06-30,Запад,B2B,Sports,Cash,353,420
+2022-06-30,Запад,B2B,Sports,Non-Cash,655,780
+2022-06-30,Запад,B2B,Books,Cash,176,210
+2022-06-30,Запад,B2B,Books,Non-Cash,328,390
+2022-06-30,Запад,Mobile Commerce,Electronics,Cash,658,567
+2022-06-30,Запад,Mobile Commerce,Electronics,Non-Cash,1221,1053
+2022-06-30,Запад,Mobile Commerce,Clothing,Cash,463,472
+2022-06-30,Запад,Mobile Commerce,Clothing,Non-Cash,860,878
+2022-06-30,Запад,Mobile Commerce,Home & Kitchen,Cash,222,284
+2022-06-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,410,526
+2022-06-30,Запад,Mobile Commerce,Sports,Cash,457,378
+2022-06-30,Запад,Mobile Commerce,Sports,Non-Cash,849,702
+2022-06-30,Запад,Mobile Commerce,Books,Cash,191,189
+2022-06-30,Запад,Mobile Commerce,Books,Non-Cash,355,351
+2022-06-30,Восток,B2C,Electronics,Cash,938,788
+2022-06-30,Восток,B2C,Electronics,Non-Cash,1740,1462
+2022-06-30,Восток,B2C,Clothing,Cash,512,656
+2022-06-30,Восток,B2C,Clothing,Non-Cash,951,1219
+2022-06-30,Восток,B2C,Home & Kitchen,Cash,418,394
+2022-06-30,Восток,B2C,Home & Kitchen,Non-Cash,775,731
+2022-06-30,Восток,B2C,Sports,Cash,441,525
+2022-06-30,Восток,B2C,Sports,Non-Cash,819,975
+2022-06-30,Восток,B2C,Books,Cash,223,262
+2022-06-30,Восток,B2C,Books,Non-Cash,415,488
+2022-06-30,Восток,B2B,Electronics,Cash,1071,1050
+2022-06-30,Восток,B2B,Electronics,Non-Cash,1989,1950
+2022-06-30,Восток,B2B,Clothing,Cash,1050,875
+2022-06-30,Восток,B2B,Clothing,Non-Cash,1950,1625
+2022-06-30,Восток,B2B,Home & Kitchen,Cash,431,525
+2022-06-30,Восток,B2B,Home & Kitchen,Non-Cash,800,975
+2022-06-30,Восток,B2B,Sports,Cash,798,700
+2022-06-30,Восток,B2B,Sports,Non-Cash,1482,1300
+2022-06-30,Восток,B2B,Books,Cash,336,350
+2022-06-30,Восток,B2B,Books,Non-Cash,624,650
+2022-06-30,Восток,Mobile Commerce,Electronics,Cash,1021,945
+2022-06-30,Восток,Mobile Commerce,Electronics,Non-Cash,1895,1755
+2022-06-30,Восток,Mobile Commerce,Clothing,Cash,938,788
+2022-06-30,Восток,Mobile Commerce,Clothing,Non-Cash,1740,1462
+2022-06-30,Восток,Mobile Commerce,Home & Kitchen,Cash,514,472
+2022-06-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,957,878
+2022-06-30,Восток,Mobile Commerce,Sports,Cash,687,630
+2022-06-30,Восток,Mobile Commerce,Sports,Non-Cash,1275,1170
+2022-06-30,Восток,Mobile Commerce,Books,Cash,312,315
+2022-06-30,Восток,Mobile Commerce,Books,Non-Cash,579,585
+2022-07-31,Север,B2C,Electronics,Cash,340,315
+2022-07-31,Север,B2C,Electronics,Non-Cash,632,585
+2022-07-31,Север,B2C,Clothing,Cash,210,262
+2022-07-31,Север,B2C,Clothing,Non-Cash,390,488
+2022-07-31,Север,B2C,Home & Kitchen,Cash,182,158
+2022-07-31,Север,B2C,Home & Kitchen,Non-Cash,336,292
+2022-07-31,Север,B2C,Sports,Cash,233,210
+2022-07-31,Север,B2C,Sports,Non-Cash,433,390
+2022-07-31,Север,B2C,Books,Cash,79,105
+2022-07-31,Север,B2C,Books,Non-Cash,146,195
+2022-07-31,Север,B2B,Electronics,Cash,361,420
+2022-07-31,Север,B2B,Electronics,Non-Cash,671,780
+2022-07-31,Север,B2B,Clothing,Cash,382,350
+2022-07-31,Север,B2B,Clothing,Non-Cash,708,650
+2022-07-31,Север,B2B,Home & Kitchen,Cash,168,210
+2022-07-31,Север,B2B,Home & Kitchen,Non-Cash,312,390
+2022-07-31,Север,B2B,Sports,Cash,255,280
+2022-07-31,Север,B2B,Sports,Non-Cash,473,520
+2022-07-31,Север,B2B,Books,Cash,116,140
+2022-07-31,Север,B2B,Books,Non-Cash,216,260
+2022-07-31,Север,Mobile Commerce,Electronics,Cash,287,378
+2022-07-31,Север,Mobile Commerce,Electronics,Non-Cash,534,702
+2022-07-31,Север,Mobile Commerce,Clothing,Cash,290,315
+2022-07-31,Север,Mobile Commerce,Clothing,Non-Cash,538,585
+2022-07-31,Север,Mobile Commerce,Home & Kitchen,Cash,232,189
+2022-07-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,432,351
+2022-07-31,Север,Mobile Commerce,Sports,Cash,277,252
+2022-07-31,Север,Mobile Commerce,Sports,Non-Cash,515,468
+2022-07-31,Север,Mobile Commerce,Books,Cash,129,126
+2022-07-31,Север,Mobile Commerce,Books,Non-Cash,239,234
+2022-07-31,Запад,B2C,Electronics,Cash,543,472
+2022-07-31,Запад,B2C,Electronics,Non-Cash,1010,878
+2022-07-31,Запад,B2C,Clothing,Cash,437,394
+2022-07-31,Запад,B2C,Clothing,Non-Cash,811,731
+2022-07-31,Запад,B2C,Home & Kitchen,Cash,290,236
+2022-07-31,Запад,B2C,Home & Kitchen,Non-Cash,540,439
+2022-07-31,Запад,B2C,Sports,Cash,315,315
+2022-07-31,Запад,B2C,Sports,Non-Cash,585,585
+2022-07-31,Запад,B2C,Books,Cash,123,158
+2022-07-31,Запад,B2C,Books,Non-Cash,228,292
+2022-07-31,Запад,B2B,Electronics,Cash,718,630
+2022-07-31,Запад,B2B,Electronics,Non-Cash,1334,1170
+2022-07-31,Запад,B2B,Clothing,Cash,578,525
+2022-07-31,Запад,B2B,Clothing,Non-Cash,1072,975
+2022-07-31,Запад,B2B,Home & Kitchen,Cash,331,315
+2022-07-31,Запад,B2B,Home & Kitchen,Non-Cash,614,585
+2022-07-31,Запад,B2B,Sports,Cash,437,420
+2022-07-31,Запад,B2B,Sports,Non-Cash,811,780
+2022-07-31,Запад,B2B,Books,Cash,260,210
+2022-07-31,Запад,B2B,Books,Non-Cash,484,390
+2022-07-31,Запад,Mobile Commerce,Electronics,Cash,612,567
+2022-07-31,Запад,Mobile Commerce,Electronics,Non-Cash,1137,1053
+2022-07-31,Запад,Mobile Commerce,Clothing,Cash,439,472
+2022-07-31,Запад,Mobile Commerce,Clothing,Non-Cash,817,878
+2022-07-31,Запад,Mobile Commerce,Home & Kitchen,Cash,261,284
+2022-07-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,484,526
+2022-07-31,Запад,Mobile Commerce,Sports,Cash,393,378
+2022-07-31,Запад,Mobile Commerce,Sports,Non-Cash,730,702
+2022-07-31,Запад,Mobile Commerce,Books,Cash,180,189
+2022-07-31,Запад,Mobile Commerce,Books,Non-Cash,333,351
+2022-07-31,Восток,B2C,Electronics,Cash,607,788
+2022-07-31,Восток,B2C,Electronics,Non-Cash,1126,1462
+2022-07-31,Восток,B2C,Clothing,Cash,525,656
+2022-07-31,Восток,B2C,Clothing,Non-Cash,975,1219
+2022-07-31,Восток,B2C,Home & Kitchen,Cash,441,394
+2022-07-31,Восток,B2C,Home & Kitchen,Non-Cash,819,731
+2022-07-31,Восток,B2C,Sports,Cash,457,525
+2022-07-31,Восток,B2C,Sports,Non-Cash,848,975
+2022-07-31,Восток,B2C,Books,Cash,312,262
+2022-07-31,Восток,B2C,Books,Non-Cash,581,488
+2022-07-31,Восток,B2B,Electronics,Cash,808,1050
+2022-07-31,Восток,B2B,Electronics,Non-Cash,1502,1950
+2022-07-31,Восток,B2B,Clothing,Cash,1068,875
+2022-07-31,Восток,B2B,Clothing,Non-Cash,1982,1625
+2022-07-31,Восток,B2B,Home & Kitchen,Cash,536,525
+2022-07-31,Восток,B2B,Home & Kitchen,Non-Cash,994,975
+2022-07-31,Восток,B2B,Sports,Cash,672,700
+2022-07-31,Восток,B2B,Sports,Non-Cash,1248,1300
+2022-07-31,Восток,B2B,Books,Cash,399,350
+2022-07-31,Восток,B2B,Books,Non-Cash,741,650
+2022-07-31,Восток,Mobile Commerce,Electronics,Cash,1077,945
+2022-07-31,Восток,Mobile Commerce,Electronics,Non-Cash,2001,1755
+2022-07-31,Восток,Mobile Commerce,Clothing,Cash,678,788
+2022-07-31,Восток,Mobile Commerce,Clothing,Non-Cash,1257,1462
+2022-07-31,Восток,Mobile Commerce,Home & Kitchen,Cash,458,472
+2022-07-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,852,878
+2022-07-31,Восток,Mobile Commerce,Sports,Cash,662,630
+2022-07-31,Восток,Mobile Commerce,Sports,Non-Cash,1228,1170
+2022-07-31,Восток,Mobile Commerce,Books,Cash,290,315
+2022-07-31,Восток,Mobile Commerce,Books,Non-Cash,538,585
+2022-08-31,Север,B2C,Electronics,Cash,255,315
+2022-08-31,Север,B2C,Electronics,Non-Cash,474,585
+2022-08-31,Север,B2C,Clothing,Cash,215,262
+2022-08-31,Север,B2C,Clothing,Non-Cash,400,488
+2022-08-31,Север,B2C,Home & Kitchen,Cash,147,158
+2022-08-31,Север,B2C,Home & Kitchen,Non-Cash,272,292
+2022-08-31,Север,B2C,Sports,Cash,216,210
+2022-08-31,Север,B2C,Sports,Non-Cash,402,390
+2022-08-31,Север,B2C,Books,Cash,124,105
+2022-08-31,Север,B2C,Books,Non-Cash,230,195
+2022-08-31,Север,B2B,Electronics,Cash,395,420
+2022-08-31,Север,B2B,Electronics,Non-Cash,733,780
+2022-08-31,Север,B2B,Clothing,Cash,434,350
+2022-08-31,Север,B2B,Clothing,Non-Cash,806,650
+2022-08-31,Север,B2B,Home & Kitchen,Cash,244,210
+2022-08-31,Север,B2B,Home & Kitchen,Non-Cash,452,390
+2022-08-31,Север,B2B,Sports,Cash,291,280
+2022-08-31,Север,B2B,Sports,Non-Cash,541,520
+2022-08-31,Север,B2B,Books,Cash,169,140
+2022-08-31,Север,B2B,Books,Non-Cash,315,260
+2022-08-31,Север,Mobile Commerce,Electronics,Cash,363,378
+2022-08-31,Север,Mobile Commerce,Electronics,Non-Cash,674,702
+2022-08-31,Север,Mobile Commerce,Clothing,Cash,265,315
+2022-08-31,Север,Mobile Commerce,Clothing,Non-Cash,491,585
+2022-08-31,Север,Mobile Commerce,Home & Kitchen,Cash,189,189
+2022-08-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,351,351
+2022-08-31,Север,Mobile Commerce,Sports,Cash,270,252
+2022-08-31,Север,Mobile Commerce,Sports,Non-Cash,501,468
+2022-08-31,Север,Mobile Commerce,Books,Cash,129,126
+2022-08-31,Север,Mobile Commerce,Books,Non-Cash,239,234
+2022-08-31,Запад,B2C,Electronics,Cash,396,472
+2022-08-31,Запад,B2C,Electronics,Non-Cash,738,878
+2022-08-31,Запад,B2C,Clothing,Cash,406,394
+2022-08-31,Запад,B2C,Clothing,Non-Cash,753,731
+2022-08-31,Запад,B2C,Home & Kitchen,Cash,278,236
+2022-08-31,Запад,B2C,Home & Kitchen,Non-Cash,518,439
+2022-08-31,Запад,B2C,Sports,Cash,290,315
+2022-08-31,Запад,B2C,Sports,Non-Cash,538,585
+2022-08-31,Запад,B2C,Books,Cash,183,158
+2022-08-31,Запад,B2C,Books,Non-Cash,339,292
+2022-08-31,Запад,B2B,Electronics,Cash,472,630
+2022-08-31,Запад,B2B,Electronics,Non-Cash,878,1170
+2022-08-31,Запад,B2B,Clothing,Cash,509,525
+2022-08-31,Запад,B2B,Clothing,Non-Cash,946,975
+2022-08-31,Запад,B2B,Home & Kitchen,Cash,287,315
+2022-08-31,Запад,B2B,Home & Kitchen,Non-Cash,532,585
+2022-08-31,Запад,B2B,Sports,Cash,491,420
+2022-08-31,Запад,B2B,Sports,Non-Cash,913,780
+2022-08-31,Запад,B2B,Books,Cash,233,210
+2022-08-31,Запад,B2B,Books,Non-Cash,433,390
+2022-08-31,Запад,Mobile Commerce,Electronics,Cash,595,567
+2022-08-31,Запад,Mobile Commerce,Electronics,Non-Cash,1106,1053
+2022-08-31,Запад,Mobile Commerce,Clothing,Cash,467,472
+2022-08-31,Запад,Mobile Commerce,Clothing,Non-Cash,869,878
+2022-08-31,Запад,Mobile Commerce,Home & Kitchen,Cash,222,284
+2022-08-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,410,526
+2022-08-31,Запад,Mobile Commerce,Sports,Cash,314,378
+2022-08-31,Запад,Mobile Commerce,Sports,Non-Cash,583,702
+2022-08-31,Запад,Mobile Commerce,Books,Cash,193,189
+2022-08-31,Запад,Mobile Commerce,Books,Non-Cash,358,351
+2022-08-31,Восток,B2C,Electronics,Cash,820,788
+2022-08-31,Восток,B2C,Electronics,Non-Cash,1520,1462
+2022-08-31,Восток,B2C,Clothing,Cash,794,656
+2022-08-31,Восток,B2C,Clothing,Non-Cash,1475,1219
+2022-08-31,Восток,B2C,Home & Kitchen,Cash,386,394
+2022-08-31,Восток,B2C,Home & Kitchen,Non-Cash,716,731
+2022-08-31,Восток,B2C,Sports,Cash,562,525
+2022-08-31,Восток,B2C,Sports,Non-Cash,1043,975
+2022-08-31,Восток,B2C,Books,Cash,246,262
+2022-08-31,Восток,B2C,Books,Non-Cash,459,488
+2022-08-31,Восток,B2B,Electronics,Cash,872,1050
+2022-08-31,Восток,B2B,Electronics,Non-Cash,1618,1950
+2022-08-31,Восток,B2B,Clothing,Cash,718,875
+2022-08-31,Восток,B2B,Clothing,Non-Cash,1332,1625
+2022-08-31,Восток,B2B,Home & Kitchen,Cash,514,525
+2022-08-31,Восток,B2B,Home & Kitchen,Non-Cash,956,975
+2022-08-31,Восток,B2B,Sports,Cash,616,700
+2022-08-31,Восток,B2B,Sports,Non-Cash,1144,1300
+2022-08-31,Восток,B2B,Books,Cash,322,350
+2022-08-31,Восток,B2B,Books,Non-Cash,598,650
+2022-08-31,Восток,Mobile Commerce,Electronics,Cash,709,945
+2022-08-31,Восток,Mobile Commerce,Electronics,Non-Cash,1316,1755
+2022-08-31,Восток,Mobile Commerce,Clothing,Cash,678,788
+2022-08-31,Восток,Mobile Commerce,Clothing,Non-Cash,1257,1462
+2022-08-31,Восток,Mobile Commerce,Home & Kitchen,Cash,486,472
+2022-08-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,904,878
+2022-08-31,Восток,Mobile Commerce,Sports,Cash,699,630
+2022-08-31,Восток,Mobile Commerce,Sports,Non-Cash,1299,1170
+2022-08-31,Восток,Mobile Commerce,Books,Cash,315,315
+2022-08-31,Восток,Mobile Commerce,Books,Non-Cash,585,585
+2022-09-30,Север,B2C,Electronics,Cash,337,315
+2022-09-30,Север,B2C,Electronics,Non-Cash,626,585
+2022-09-30,Север,B2C,Clothing,Cash,307,262
+2022-09-30,Север,B2C,Clothing,Non-Cash,571,488
+2022-09-30,Север,B2C,Home & Kitchen,Cash,141,158
+2022-09-30,Север,B2C,Home & Kitchen,Non-Cash,260,292
+2022-09-30,Север,B2C,Sports,Cash,204,210
+2022-09-30,Север,B2C,Sports,Non-Cash,378,390
+2022-09-30,Север,B2C,Books,Cash,108,105
+2022-09-30,Север,B2C,Books,Non-Cash,201,195
+2022-09-30,Север,B2B,Electronics,Cash,399,420
+2022-09-30,Север,B2B,Electronics,Non-Cash,741,780
+2022-09-30,Север,B2B,Clothing,Cash,326,350
+2022-09-30,Север,B2B,Clothing,Non-Cash,604,650
+2022-09-30,Север,B2B,Home & Kitchen,Cash,166,210
+2022-09-30,Север,B2B,Home & Kitchen,Non-Cash,308,390
+2022-09-30,Север,B2B,Sports,Cash,272,280
+2022-09-30,Север,B2B,Sports,Non-Cash,504,520
+2022-09-30,Север,B2B,Books,Cash,154,140
+2022-09-30,Север,B2B,Books,Non-Cash,286,260
+2022-09-30,Север,Mobile Commerce,Electronics,Cash,355,378
+2022-09-30,Север,Mobile Commerce,Electronics,Non-Cash,660,702
+2022-09-30,Север,Mobile Commerce,Clothing,Cash,258,315
+2022-09-30,Север,Mobile Commerce,Clothing,Non-Cash,480,585
+2022-09-30,Север,Mobile Commerce,Home & Kitchen,Cash,157,189
+2022-09-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,291,351
+2022-09-30,Север,Mobile Commerce,Sports,Cash,222,252
+2022-09-30,Север,Mobile Commerce,Sports,Non-Cash,412,468
+2022-09-30,Север,Mobile Commerce,Books,Cash,101,126
+2022-09-30,Север,Mobile Commerce,Books,Non-Cash,187,234
+2022-09-30,Запад,B2C,Electronics,Cash,354,472
+2022-09-30,Запад,B2C,Electronics,Non-Cash,658,878
+2022-09-30,Запад,B2C,Clothing,Cash,327,394
+2022-09-30,Запад,B2C,Clothing,Non-Cash,607,731
+2022-09-30,Запад,B2C,Home & Kitchen,Cash,212,236
+2022-09-30,Запад,B2C,Home & Kitchen,Non-Cash,395,439
+2022-09-30,Запад,B2C,Sports,Cash,284,315
+2022-09-30,Запад,B2C,Sports,Non-Cash,526,585
+2022-09-30,Запад,B2C,Books,Cash,136,158
+2022-09-30,Запад,B2C,Books,Non-Cash,251,292
+2022-09-30,Запад,B2B,Electronics,Cash,498,630
+2022-09-30,Запад,B2B,Electronics,Non-Cash,924,1170
+2022-09-30,Запад,B2B,Clothing,Cash,599,525
+2022-09-30,Запад,B2B,Clothing,Non-Cash,1112,975
+2022-09-30,Запад,B2B,Home & Kitchen,Cash,324,315
+2022-09-30,Запад,B2B,Home & Kitchen,Non-Cash,603,585
+2022-09-30,Запад,B2B,Sports,Cash,504,420
+2022-09-30,Запад,B2B,Sports,Non-Cash,936,780
+2022-09-30,Запад,B2B,Books,Cash,212,210
+2022-09-30,Запад,B2B,Books,Non-Cash,394,390
+2022-09-30,Запад,Mobile Commerce,Electronics,Cash,482,567
+2022-09-30,Запад,Mobile Commerce,Electronics,Non-Cash,895,1053
+2022-09-30,Запад,Mobile Commerce,Clothing,Cash,571,472
+2022-09-30,Запад,Mobile Commerce,Clothing,Non-Cash,1062,878
+2022-09-30,Запад,Mobile Commerce,Home & Kitchen,Cash,352,284
+2022-09-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,652,526
+2022-09-30,Запад,Mobile Commerce,Sports,Cash,386,378
+2022-09-30,Запад,Mobile Commerce,Sports,Non-Cash,716,702
+2022-09-30,Запад,Mobile Commerce,Books,Cash,208,189
+2022-09-30,Запад,Mobile Commerce,Books,Non-Cash,386,351
+2022-09-30,Восток,B2C,Electronics,Cash,914,788
+2022-09-30,Восток,B2C,Electronics,Non-Cash,1696,1462
+2022-09-30,Восток,B2C,Clothing,Cash,610,656
+2022-09-30,Восток,B2C,Clothing,Non-Cash,1134,1219
+2022-09-30,Восток,B2C,Home & Kitchen,Cash,429,394
+2022-09-30,Восток,B2C,Home & Kitchen,Non-Cash,797,731
+2022-09-30,Восток,B2C,Sports,Cash,551,525
+2022-09-30,Восток,B2C,Sports,Non-Cash,1024,975
+2022-09-30,Восток,B2C,Books,Cash,309,262
+2022-09-30,Восток,B2C,Books,Non-Cash,576,488
+2022-09-30,Восток,B2B,Electronics,Cash,976,1050
+2022-09-30,Восток,B2B,Electronics,Non-Cash,1813,1950
+2022-09-30,Восток,B2B,Clothing,Cash,1050,875
+2022-09-30,Восток,B2B,Clothing,Non-Cash,1950,1625
+2022-09-30,Восток,B2B,Home & Kitchen,Cash,514,525
+2022-09-30,Восток,B2B,Home & Kitchen,Non-Cash,956,975
+2022-09-30,Восток,B2B,Sports,Cash,532,700
+2022-09-30,Восток,B2B,Sports,Non-Cash,988,1300
+2022-09-30,Восток,B2B,Books,Cash,284,350
+2022-09-30,Восток,B2B,Books,Non-Cash,526,650
+2022-09-30,Восток,Mobile Commerce,Electronics,Cash,1106,945
+2022-09-30,Восток,Mobile Commerce,Electronics,Non-Cash,2053,1755
+2022-09-30,Восток,Mobile Commerce,Clothing,Cash,969,788
+2022-09-30,Восток,Mobile Commerce,Clothing,Non-Cash,1798,1462
+2022-09-30,Восток,Mobile Commerce,Home & Kitchen,Cash,496,472
+2022-09-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,922,878
+2022-09-30,Восток,Mobile Commerce,Sports,Cash,573,630
+2022-09-30,Восток,Mobile Commerce,Sports,Non-Cash,1065,1170
+2022-09-30,Восток,Mobile Commerce,Books,Cash,318,315
+2022-09-30,Восток,Mobile Commerce,Books,Non-Cash,591,585
+2022-10-31,Север,B2C,Electronics,Cash,346,315
+2022-10-31,Север,B2C,Electronics,Non-Cash,644,585
+2022-10-31,Север,B2C,Clothing,Cash,325,262
+2022-10-31,Север,B2C,Clothing,Non-Cash,605,488
+2022-10-31,Север,B2C,Home & Kitchen,Cash,185,158
+2022-10-31,Север,B2C,Home & Kitchen,Non-Cash,342,292
+2022-10-31,Север,B2C,Sports,Cash,176,210
+2022-10-31,Север,B2C,Sports,Non-Cash,328,390
+2022-10-31,Север,B2C,Books,Cash,125,105
+2022-10-31,Север,B2C,Books,Non-Cash,232,195
+2022-10-31,Север,B2B,Electronics,Cash,370,420
+2022-10-31,Север,B2B,Electronics,Non-Cash,686,780
+2022-10-31,Север,B2B,Clothing,Cash,284,350
+2022-10-31,Север,B2B,Clothing,Non-Cash,526,650
+2022-10-31,Север,B2B,Home & Kitchen,Cash,237,210
+2022-10-31,Север,B2B,Home & Kitchen,Non-Cash,441,390
+2022-10-31,Север,B2B,Sports,Cash,319,280
+2022-10-31,Север,B2B,Sports,Non-Cash,593,520
+2022-10-31,Север,B2B,Books,Cash,116,140
+2022-10-31,Север,B2B,Books,Non-Cash,216,260
+2022-10-31,Север,Mobile Commerce,Electronics,Cash,333,378
+2022-10-31,Север,Mobile Commerce,Electronics,Non-Cash,618,702
+2022-10-31,Север,Mobile Commerce,Clothing,Cash,258,315
+2022-10-31,Север,Mobile Commerce,Clothing,Non-Cash,480,585
+2022-10-31,Север,Mobile Commerce,Home & Kitchen,Cash,172,189
+2022-10-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,319,351
+2022-10-31,Север,Mobile Commerce,Sports,Cash,244,252
+2022-10-31,Север,Mobile Commerce,Sports,Non-Cash,454,468
+2022-10-31,Север,Mobile Commerce,Books,Cash,113,126
+2022-10-31,Север,Mobile Commerce,Books,Non-Cash,211,234
+2022-10-31,Запад,B2C,Electronics,Cash,472,472
+2022-10-31,Запад,B2C,Electronics,Non-Cash,878,878
+2022-10-31,Запад,B2C,Clothing,Cash,327,394
+2022-10-31,Запад,B2C,Clothing,Non-Cash,607,731
+2022-10-31,Запад,B2C,Home & Kitchen,Cash,260,236
+2022-10-31,Запад,B2C,Home & Kitchen,Non-Cash,483,439
+2022-10-31,Запад,B2C,Sports,Cash,255,315
+2022-10-31,Запад,B2C,Sports,Non-Cash,474,585
+2022-10-31,Запад,B2C,Books,Cash,145,158
+2022-10-31,Запад,B2C,Books,Non-Cash,269,292
+2022-10-31,Запад,B2B,Electronics,Cash,517,630
+2022-10-31,Запад,B2B,Electronics,Non-Cash,959,1170
+2022-10-31,Запад,B2B,Clothing,Cash,499,525
+2022-10-31,Запад,B2B,Clothing,Non-Cash,926,975
+2022-10-31,Запад,B2B,Home & Kitchen,Cash,315,315
+2022-10-31,Запад,B2B,Home & Kitchen,Non-Cash,585,585
+2022-10-31,Запад,B2B,Sports,Cash,323,420
+2022-10-31,Запад,B2B,Sports,Non-Cash,601,780
+2022-10-31,Запад,B2B,Books,Cash,191,210
+2022-10-31,Запад,B2B,Books,Non-Cash,355,390
+2022-10-31,Запад,Mobile Commerce,Electronics,Cash,680,567
+2022-10-31,Запад,Mobile Commerce,Electronics,Non-Cash,1264,1053
+2022-10-31,Запад,Mobile Commerce,Clothing,Cash,463,472
+2022-10-31,Запад,Mobile Commerce,Clothing,Non-Cash,860,878
+2022-10-31,Запад,Mobile Commerce,Home & Kitchen,Cash,281,284
+2022-10-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,521,526
+2022-10-31,Запад,Mobile Commerce,Sports,Cash,299,378
+2022-10-31,Запад,Mobile Commerce,Sports,Non-Cash,555,702
+2022-10-31,Запад,Mobile Commerce,Books,Cash,210,189
+2022-10-31,Запад,Mobile Commerce,Books,Non-Cash,390,351
+2022-10-31,Восток,B2C,Electronics,Cash,938,788
+2022-10-31,Восток,B2C,Electronics,Non-Cash,1740,1462
+2022-10-31,Восток,B2C,Clothing,Cash,813,656
+2022-10-31,Восток,B2C,Clothing,Non-Cash,1512,1219
+2022-10-31,Восток,B2C,Home & Kitchen,Cash,386,394
+2022-10-31,Восток,B2C,Home & Kitchen,Non-Cash,716,731
+2022-10-31,Восток,B2C,Sports,Cash,551,525
+2022-10-31,Восток,B2C,Sports,Non-Cash,1024,975
+2022-10-31,Восток,B2C,Books,Cash,262,262
+2022-10-31,Восток,B2C,Books,Non-Cash,488,488
+2022-10-31,Восток,B2B,Electronics,Cash,998,1050
+2022-10-31,Восток,B2B,Electronics,Non-Cash,1852,1950
+2022-10-31,Восток,B2B,Clothing,Cash,945,875
+2022-10-31,Восток,B2B,Clothing,Non-Cash,1755,1625
+2022-10-31,Восток,B2B,Home & Kitchen,Cash,588,525
+2022-10-31,Восток,B2B,Home & Kitchen,Non-Cash,1092,975
+2022-10-31,Восток,B2B,Sports,Cash,686,700
+2022-10-31,Восток,B2B,Sports,Non-Cash,1274,1300
+2022-10-31,Восток,B2B,Books,Cash,357,350
+2022-10-31,Восток,B2B,Books,Non-Cash,663,650
+2022-10-31,Восток,Mobile Commerce,Electronics,Cash,983,945
+2022-10-31,Восток,Mobile Commerce,Electronics,Non-Cash,1825,1755
+2022-10-31,Восток,Mobile Commerce,Clothing,Cash,851,788
+2022-10-31,Восток,Mobile Commerce,Clothing,Non-Cash,1579,1462
+2022-10-31,Восток,Mobile Commerce,Home & Kitchen,Cash,458,472
+2022-10-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,852,878
+2022-10-31,Восток,Mobile Commerce,Sports,Cash,517,630
+2022-10-31,Восток,Mobile Commerce,Sports,Non-Cash,959,1170
+2022-10-31,Восток,Mobile Commerce,Books,Cash,365,315
+2022-10-31,Восток,Mobile Commerce,Books,Non-Cash,679,585
+2022-11-30,Север,B2C,Electronics,Cash,391,315
+2022-11-30,Север,B2C,Electronics,Non-Cash,725,585
+2022-11-30,Север,B2C,Clothing,Cash,220,262
+2022-11-30,Север,B2C,Clothing,Non-Cash,410,488
+2022-11-30,Север,B2C,Home & Kitchen,Cash,118,158
+2022-11-30,Север,B2C,Home & Kitchen,Non-Cash,219,292
+2022-11-30,Север,B2C,Sports,Cash,197,210
+2022-11-30,Север,B2C,Sports,Non-Cash,367,390
+2022-11-30,Север,B2C,Books,Cash,117,105
+2022-11-30,Север,B2C,Books,Non-Cash,216,195
+2022-11-30,Север,B2B,Electronics,Cash,386,420
+2022-11-30,Север,B2B,Electronics,Non-Cash,718,780
+2022-11-30,Север,B2B,Clothing,Cash,332,350
+2022-11-30,Север,B2B,Clothing,Non-Cash,618,650
+2022-11-30,Север,B2B,Home & Kitchen,Cash,258,210
+2022-11-30,Север,B2B,Home & Kitchen,Non-Cash,480,390
+2022-11-30,Север,B2B,Sports,Cash,218,280
+2022-11-30,Север,B2B,Sports,Non-Cash,406,520
+2022-11-30,Север,B2B,Books,Cash,164,140
+2022-11-30,Север,B2B,Books,Non-Cash,304,260
+2022-11-30,Север,Mobile Commerce,Electronics,Cash,287,378
+2022-11-30,Север,Mobile Commerce,Electronics,Non-Cash,534,702
+2022-11-30,Север,Mobile Commerce,Clothing,Cash,299,315
+2022-11-30,Север,Mobile Commerce,Clothing,Non-Cash,556,585
+2022-11-30,Север,Mobile Commerce,Home & Kitchen,Cash,210,189
+2022-11-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,390,351
+2022-11-30,Север,Mobile Commerce,Sports,Cash,199,252
+2022-11-30,Север,Mobile Commerce,Sports,Non-Cash,370,468
+2022-11-30,Север,Mobile Commerce,Books,Cash,115,126
+2022-11-30,Север,Mobile Commerce,Books,Non-Cash,213,234
+2022-11-30,Запад,B2C,Electronics,Cash,581,472
+2022-11-30,Запад,B2C,Electronics,Non-Cash,1080,878
+2022-11-30,Запад,B2C,Clothing,Cash,481,394
+2022-11-30,Запад,B2C,Clothing,Non-Cash,892,731
+2022-11-30,Запад,B2C,Home & Kitchen,Cash,201,236
+2022-11-30,Запад,B2C,Home & Kitchen,Non-Cash,373,439
+2022-11-30,Запад,B2C,Sports,Cash,378,315
+2022-11-30,Запад,B2C,Sports,Non-Cash,702,585
+2022-11-30,Запад,B2C,Books,Cash,182,158
+2022-11-30,Запад,B2C,Books,Non-Cash,336,292
+2022-11-30,Запад,B2B,Electronics,Cash,662,630
+2022-11-30,Запад,B2B,Electronics,Non-Cash,1228,1170
+2022-11-30,Запад,B2B,Clothing,Cash,536,525
+2022-11-30,Запад,B2B,Clothing,Non-Cash,994,975
+2022-11-30,Запад,B2B,Home & Kitchen,Cash,372,315
+2022-11-30,Запад,B2B,Home & Kitchen,Non-Cash,690,585
+2022-11-30,Запад,B2B,Sports,Cash,445,420
+2022-11-30,Запад,B2B,Sports,Non-Cash,827,780
+2022-11-30,Запад,B2B,Books,Cash,200,210
+2022-11-30,Запад,B2B,Books,Non-Cash,370,390
+2022-11-30,Запад,Mobile Commerce,Electronics,Cash,459,567
+2022-11-30,Запад,Mobile Commerce,Electronics,Non-Cash,853,1053
+2022-11-30,Запад,Mobile Commerce,Clothing,Cash,396,472
+2022-11-30,Запад,Mobile Commerce,Clothing,Non-Cash,738,878
+2022-11-30,Запад,Mobile Commerce,Home & Kitchen,Cash,290,284
+2022-11-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,537,526
+2022-11-30,Запад,Mobile Commerce,Sports,Cash,461,378
+2022-11-30,Запад,Mobile Commerce,Sports,Non-Cash,856,702
+2022-11-30,Запад,Mobile Commerce,Books,Cash,208,189
+2022-11-30,Запад,Mobile Commerce,Books,Non-Cash,386,351
+2022-11-30,Восток,B2C,Electronics,Cash,741,788
+2022-11-30,Восток,B2C,Electronics,Non-Cash,1374,1462
+2022-11-30,Восток,B2C,Clothing,Cash,571,656
+2022-11-30,Восток,B2C,Clothing,Non-Cash,1061,1219
+2022-11-30,Восток,B2C,Home & Kitchen,Cash,366,394
+2022-11-30,Восток,B2C,Home & Kitchen,Non-Cash,680,731
+2022-11-30,Восток,B2C,Sports,Cash,651,525
+2022-11-30,Восток,B2C,Sports,Non-Cash,1209,975
+2022-11-30,Восток,B2C,Books,Cash,223,262
+2022-11-30,Восток,B2C,Books,Non-Cash,415,488
+2022-11-30,Восток,B2B,Electronics,Cash,1144,1050
+2022-11-30,Восток,B2B,Electronics,Non-Cash,2126,1950
+2022-11-30,Восток,B2B,Clothing,Cash,945,875
+2022-11-30,Восток,B2B,Clothing,Non-Cash,1755,1625
+2022-11-30,Восток,B2B,Home & Kitchen,Cash,620,525
+2022-11-30,Восток,B2B,Home & Kitchen,Non-Cash,1150,975
+2022-11-30,Восток,B2B,Sports,Cash,546,700
+2022-11-30,Восток,B2B,Sports,Non-Cash,1014,1300
+2022-11-30,Восток,B2B,Books,Cash,304,350
+2022-11-30,Восток,B2B,Books,Non-Cash,566,650
+2022-11-30,Восток,Mobile Commerce,Electronics,Cash,1049,945
+2022-11-30,Восток,Mobile Commerce,Electronics,Non-Cash,1948,1755
+2022-11-30,Восток,Mobile Commerce,Clothing,Cash,599,788
+2022-11-30,Восток,Mobile Commerce,Clothing,Non-Cash,1111,1462
+2022-11-30,Восток,Mobile Commerce,Home & Kitchen,Cash,585,472
+2022-11-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,1089,878
+2022-11-30,Восток,Mobile Commerce,Sports,Cash,472,630
+2022-11-30,Восток,Mobile Commerce,Sports,Non-Cash,878,1170
+2022-11-30,Восток,Mobile Commerce,Books,Cash,359,315
+2022-11-30,Восток,Mobile Commerce,Books,Non-Cash,667,585
+2022-12-31,Север,B2C,Electronics,Cash,312,315
+2022-12-31,Север,B2C,Electronics,Non-Cash,579,585
+2022-12-31,Север,B2C,Clothing,Cash,291,262
+2022-12-31,Север,B2C,Clothing,Non-Cash,542,488
+2022-12-31,Север,B2C,Home & Kitchen,Cash,174,158
+2022-12-31,Север,B2C,Home & Kitchen,Non-Cash,321,292
+2022-12-31,Север,B2C,Sports,Cash,168,210
+2022-12-31,Север,B2C,Sports,Non-Cash,312,390
+2022-12-31,Север,B2C,Books,Cash,85,105
+2022-12-31,Север,B2C,Books,Non-Cash,158,195
+2022-12-31,Север,B2B,Electronics,Cash,328,420
+2022-12-31,Север,B2B,Electronics,Non-Cash,608,780
+2022-12-31,Север,B2B,Clothing,Cash,382,350
+2022-12-31,Север,B2B,Clothing,Non-Cash,708,650
+2022-12-31,Север,B2B,Home & Kitchen,Cash,241,210
+2022-12-31,Север,B2B,Home & Kitchen,Non-Cash,448,390
+2022-12-31,Север,B2B,Sports,Cash,302,280
+2022-12-31,Север,B2B,Sports,Non-Cash,562,520
+2022-12-31,Север,B2B,Books,Cash,144,140
+2022-12-31,Север,B2B,Books,Non-Cash,268,260
+2022-12-31,Север,Mobile Commerce,Electronics,Cash,299,378
+2022-12-31,Север,Mobile Commerce,Electronics,Non-Cash,555,702
+2022-12-31,Север,Mobile Commerce,Clothing,Cash,318,315
+2022-12-31,Север,Mobile Commerce,Clothing,Non-Cash,591,585
+2022-12-31,Север,Mobile Commerce,Home & Kitchen,Cash,202,189
+2022-12-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,376,351
+2022-12-31,Север,Mobile Commerce,Sports,Cash,302,252
+2022-12-31,Север,Mobile Commerce,Sports,Non-Cash,562,468
+2022-12-31,Север,Mobile Commerce,Books,Cash,106,126
+2022-12-31,Север,Mobile Commerce,Books,Non-Cash,197,234
+2022-12-31,Запад,B2C,Electronics,Cash,378,472
+2022-12-31,Запад,B2C,Electronics,Non-Cash,702,878
+2022-12-31,Запад,B2C,Clothing,Cash,426,394
+2022-12-31,Запад,B2C,Clothing,Non-Cash,789,731
+2022-12-31,Запад,B2C,Home & Kitchen,Cash,194,236
+2022-12-31,Запад,B2C,Home & Kitchen,Non-Cash,360,439
+2022-12-31,Запад,B2C,Sports,Cash,331,315
+2022-12-31,Запад,B2C,Sports,Non-Cash,614,585
+2022-12-31,Запад,B2C,Books,Cash,131,158
+2022-12-31,Запад,B2C,Books,Non-Cash,242,292
+2022-12-31,Запад,B2B,Electronics,Cash,598,630
+2022-12-31,Запад,B2B,Electronics,Non-Cash,1112,1170
+2022-12-31,Запад,B2B,Clothing,Cash,431,525
+2022-12-31,Запад,B2B,Clothing,Non-Cash,800,975
+2022-12-31,Запад,B2B,Home & Kitchen,Cash,246,315
+2022-12-31,Запад,B2B,Home & Kitchen,Non-Cash,456,585
+2022-12-31,Запад,B2B,Sports,Cash,403,420
+2022-12-31,Запад,B2B,Sports,Non-Cash,749,780
+2022-12-31,Запад,B2B,Books,Cash,214,210
+2022-12-31,Запад,B2B,Books,Non-Cash,398,390
+2022-12-31,Запад,Mobile Commerce,Electronics,Cash,675,567
+2022-12-31,Запад,Mobile Commerce,Electronics,Non-Cash,1253,1053
+2022-12-31,Запад,Mobile Commerce,Clothing,Cash,368,472
+2022-12-31,Запад,Mobile Commerce,Clothing,Non-Cash,685,878
+2022-12-31,Запад,Mobile Commerce,Home & Kitchen,Cash,321,284
+2022-12-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,594,526
+2022-12-31,Запад,Mobile Commerce,Sports,Cash,359,378
+2022-12-31,Запад,Mobile Commerce,Sports,Non-Cash,667,702
+2022-12-31,Запад,Mobile Commerce,Books,Cash,155,189
+2022-12-31,Запад,Mobile Commerce,Books,Non-Cash,288,351
+2022-12-31,Восток,B2C,Electronics,Cash,741,788
+2022-12-31,Восток,B2C,Electronics,Non-Cash,1374,1462
+2022-12-31,Восток,B2C,Clothing,Cash,695,656
+2022-12-31,Восток,B2C,Clothing,Non-Cash,1292,1219
+2022-12-31,Восток,B2C,Home & Kitchen,Cash,296,394
+2022-12-31,Восток,B2C,Home & Kitchen,Non-Cash,548,731
+2022-12-31,Восток,B2C,Sports,Cash,420,525
+2022-12-31,Восток,B2C,Sports,Non-Cash,780,975
+2022-12-31,Восток,B2C,Books,Cash,267,262
+2022-12-31,Восток,B2C,Books,Non-Cash,498,488
+2022-12-31,Восток,B2B,Electronics,Cash,1239,1050
+2022-12-31,Восток,B2B,Electronics,Non-Cash,2301,1950
+2022-12-31,Восток,B2B,Clothing,Cash,919,875
+2022-12-31,Восток,B2B,Clothing,Non-Cash,1706,1625
+2022-12-31,Восток,B2B,Home & Kitchen,Cash,441,525
+2022-12-31,Восток,B2B,Home & Kitchen,Non-Cash,819,975
+2022-12-31,Восток,B2B,Sports,Cash,658,700
+2022-12-31,Восток,B2B,Sports,Non-Cash,1222,1300
+2022-12-31,Восток,B2B,Books,Cash,287,350
+2022-12-31,Восток,B2B,Books,Non-Cash,533,650
+2022-12-31,Восток,Mobile Commerce,Electronics,Cash,907,945
+2022-12-31,Восток,Mobile Commerce,Electronics,Non-Cash,1685,1755
+2022-12-31,Восток,Mobile Commerce,Clothing,Cash,883,788
+2022-12-31,Восток,Mobile Commerce,Clothing,Non-Cash,1637,1462
+2022-12-31,Восток,Mobile Commerce,Home & Kitchen,Cash,486,472
+2022-12-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,904,878
+2022-12-31,Восток,Mobile Commerce,Sports,Cash,523,630
+2022-12-31,Восток,Mobile Commerce,Sports,Non-Cash,971,1170
+2022-12-31,Восток,Mobile Commerce,Books,Cash,372,315
+2022-12-31,Восток,Mobile Commerce,Books,Non-Cash,690,585
+2023-01-31,Север,B2C,Electronics,Cash,381,315
+2023-01-31,Север,B2C,Electronics,Non-Cash,708,585
+2023-01-31,Север,B2C,Clothing,Cash,196,262
+2023-01-31,Север,B2C,Clothing,Non-Cash,366,488
+2023-01-31,Север,B2C,Home & Kitchen,Cash,182,158
+2023-01-31,Север,B2C,Home & Kitchen,Non-Cash,336,292
+2023-01-31,Север,B2C,Sports,Cash,237,210
+2023-01-31,Север,B2C,Sports,Non-Cash,441,390
+2023-01-31,Север,B2C,Books,Cash,105,105
+2023-01-31,Север,B2C,Books,Non-Cash,195,195
+2023-01-31,Север,B2B,Electronics,Cash,357,420
+2023-01-31,Север,B2B,Electronics,Non-Cash,663,780
+2023-01-31,Север,B2B,Clothing,Cash,382,350
+2023-01-31,Север,B2B,Clothing,Non-Cash,708,650
+2023-01-31,Север,B2B,Home & Kitchen,Cash,206,210
+2023-01-31,Север,B2B,Home & Kitchen,Non-Cash,382,390
+2023-01-31,Север,B2B,Sports,Cash,300,280
+2023-01-31,Север,B2B,Sports,Non-Cash,556,520
+2023-01-31,Север,B2B,Books,Cash,132,140
+2023-01-31,Север,B2B,Books,Non-Cash,244,260
+2023-01-31,Север,Mobile Commerce,Electronics,Cash,382,378
+2023-01-31,Север,Mobile Commerce,Electronics,Non-Cash,709,702
+2023-01-31,Север,Mobile Commerce,Clothing,Cash,280,315
+2023-01-31,Север,Mobile Commerce,Clothing,Non-Cash,521,585
+2023-01-31,Север,Mobile Commerce,Home & Kitchen,Cash,202,189
+2023-01-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,376,351
+2023-01-31,Север,Mobile Commerce,Sports,Cash,204,252
+2023-01-31,Север,Mobile Commerce,Sports,Non-Cash,379,468
+2023-01-31,Север,Mobile Commerce,Books,Cash,136,126
+2023-01-31,Север,Mobile Commerce,Books,Non-Cash,253,234
+2023-01-31,Запад,B2C,Electronics,Cash,562,472
+2023-01-31,Запад,B2C,Electronics,Non-Cash,1045,878
+2023-01-31,Запад,B2C,Clothing,Cash,473,394
+2023-01-31,Запад,B2C,Clothing,Non-Cash,877,731
+2023-01-31,Запад,B2C,Home & Kitchen,Cash,274,236
+2023-01-31,Запад,B2C,Home & Kitchen,Non-Cash,509,439
+2023-01-31,Запад,B2C,Sports,Cash,249,315
+2023-01-31,Запад,B2C,Sports,Non-Cash,462,585
+2023-01-31,Запад,B2C,Books,Cash,164,158
+2023-01-31,Запад,B2C,Books,Non-Cash,304,292
+2023-01-31,Запад,B2B,Electronics,Cash,643,630
+2023-01-31,Запад,B2B,Electronics,Non-Cash,1193,1170
+2023-01-31,Запад,B2B,Clothing,Cash,483,525
+2023-01-31,Запад,B2B,Clothing,Non-Cash,897,975
+2023-01-31,Запад,B2B,Home & Kitchen,Cash,346,315
+2023-01-31,Запад,B2B,Home & Kitchen,Non-Cash,644,585
+2023-01-31,Запад,B2B,Sports,Cash,323,420
+2023-01-31,Запад,B2B,Sports,Non-Cash,601,780
+2023-01-31,Запад,B2B,Books,Cash,200,210
+2023-01-31,Запад,B2B,Books,Non-Cash,370,390
+2023-01-31,Запад,Mobile Commerce,Electronics,Cash,680,567
+2023-01-31,Запад,Mobile Commerce,Electronics,Non-Cash,1264,1053
+2023-01-31,Запад,Mobile Commerce,Clothing,Cash,425,472
+2023-01-31,Запад,Mobile Commerce,Clothing,Non-Cash,790,878
+2023-01-31,Запад,Mobile Commerce,Home & Kitchen,Cash,315,284
+2023-01-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,584,526
+2023-01-31,Запад,Mobile Commerce,Sports,Cash,438,378
+2023-01-31,Запад,Mobile Commerce,Sports,Non-Cash,814,702
+2023-01-31,Запад,Mobile Commerce,Books,Cash,149,189
+2023-01-31,Запад,Mobile Commerce,Books,Non-Cash,277,351
+2023-01-31,Восток,B2C,Electronics,Cash,977,788
+2023-01-31,Восток,B2C,Electronics,Non-Cash,1813,1462
+2023-01-31,Восток,B2C,Clothing,Cash,577,656
+2023-01-31,Восток,B2C,Clothing,Non-Cash,1073,1219
+2023-01-31,Восток,B2C,Home & Kitchen,Cash,414,394
+2023-01-31,Восток,B2C,Home & Kitchen,Non-Cash,768,731
+2023-01-31,Восток,B2C,Sports,Cash,630,525
+2023-01-31,Восток,B2C,Sports,Non-Cash,1170,975
+2023-01-31,Восток,B2C,Books,Cash,257,262
+2023-01-31,Восток,B2C,Books,Non-Cash,478,488
+2023-01-31,Восток,B2B,Electronics,Cash,1144,1050
+2023-01-31,Восток,B2B,Electronics,Non-Cash,2126,1950
+2023-01-31,Восток,B2B,Clothing,Cash,963,875
+2023-01-31,Восток,B2B,Clothing,Non-Cash,1788,1625
+2023-01-31,Восток,B2B,Home & Kitchen,Cash,441,525
+2023-01-31,Восток,B2B,Home & Kitchen,Non-Cash,819,975
+2023-01-31,Восток,B2B,Sports,Cash,707,700
+2023-01-31,Восток,B2B,Sports,Non-Cash,1313,1300
+2023-01-31,Восток,B2B,Books,Cash,354,350
+2023-01-31,Восток,B2B,Books,Non-Cash,656,650
+2023-01-31,Восток,Mobile Commerce,Electronics,Cash,917,945
+2023-01-31,Восток,Mobile Commerce,Electronics,Non-Cash,1702,1755
+2023-01-31,Восток,Mobile Commerce,Clothing,Cash,686,788
+2023-01-31,Восток,Mobile Commerce,Clothing,Non-Cash,1272,1462
+2023-01-31,Восток,Mobile Commerce,Home & Kitchen,Cash,425,472
+2023-01-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,790,878
+2023-01-31,Восток,Mobile Commerce,Sports,Cash,687,630
+2023-01-31,Восток,Mobile Commerce,Sports,Non-Cash,1275,1170
+2023-01-31,Восток,Mobile Commerce,Books,Cash,318,315
+2023-01-31,Восток,Mobile Commerce,Books,Non-Cash,591,585
+2023-02-28,Север,B2C,Electronics,Cash,356,315
+2023-02-28,Север,B2C,Electronics,Non-Cash,661,585
+2023-02-28,Север,B2C,Clothing,Cash,317,262
+2023-02-28,Север,B2C,Clothing,Non-Cash,590,488
+2023-02-28,Север,B2C,Home & Kitchen,Cash,144,158
+2023-02-28,Север,B2C,Home & Kitchen,Non-Cash,266,292
+2023-02-28,Север,B2C,Sports,Cash,256,210
+2023-02-28,Север,B2C,Sports,Non-Cash,476,390
+2023-02-28,Север,B2C,Books,Cash,121,105
+2023-02-28,Север,B2C,Books,Non-Cash,224,195
+2023-02-28,Север,B2B,Electronics,Cash,315,420
+2023-02-28,Север,B2B,Electronics,Non-Cash,585,780
+2023-02-28,Север,B2B,Clothing,Cash,298,350
+2023-02-28,Север,B2B,Clothing,Non-Cash,552,650
+2023-02-28,Север,B2B,Home & Kitchen,Cash,181,210
+2023-02-28,Север,B2B,Home & Kitchen,Non-Cash,335,390
+2023-02-28,Север,B2B,Sports,Cash,246,280
+2023-02-28,Север,B2B,Sports,Non-Cash,458,520
+2023-02-28,Север,B2B,Books,Cash,115,140
+2023-02-28,Север,B2B,Books,Non-Cash,213,260
+2023-02-28,Север,Mobile Commerce,Electronics,Cash,397,378
+2023-02-28,Север,Mobile Commerce,Electronics,Non-Cash,737,702
+2023-02-28,Север,Mobile Commerce,Clothing,Cash,255,315
+2023-02-28,Север,Mobile Commerce,Clothing,Non-Cash,474,585
+2023-02-28,Север,Mobile Commerce,Home & Kitchen,Cash,227,189
+2023-02-28,Север,Mobile Commerce,Home & Kitchen,Non-Cash,421,351
+2023-02-28,Север,Mobile Commerce,Sports,Cash,265,252
+2023-02-28,Север,Mobile Commerce,Sports,Non-Cash,491,468
+2023-02-28,Север,Mobile Commerce,Books,Cash,113,126
+2023-02-28,Север,Mobile Commerce,Books,Non-Cash,211,234
+2023-02-28,Запад,B2C,Electronics,Cash,548,472
+2023-02-28,Запад,B2C,Electronics,Non-Cash,1018,878
+2023-02-28,Запад,B2C,Clothing,Cash,445,394
+2023-02-28,Запад,B2C,Clothing,Non-Cash,826,731
+2023-02-28,Запад,B2C,Home & Kitchen,Cash,278,236
+2023-02-28,Запад,B2C,Home & Kitchen,Non-Cash,518,439
+2023-02-28,Запад,B2C,Sports,Cash,293,315
+2023-02-28,Запад,B2C,Sports,Non-Cash,544,585
+2023-02-28,Запад,B2C,Books,Cash,130,158
+2023-02-28,Запад,B2C,Books,Non-Cash,239,292
+2023-02-28,Запад,B2B,Electronics,Cash,649,630
+2023-02-28,Запад,B2B,Electronics,Non-Cash,1205,1170
+2023-02-28,Запад,B2B,Clothing,Cash,399,525
+2023-02-28,Запад,B2B,Clothing,Non-Cash,741,975
+2023-02-28,Запад,B2B,Home & Kitchen,Cash,365,315
+2023-02-28,Запад,B2B,Home & Kitchen,Non-Cash,679,585
+2023-02-28,Запад,B2B,Sports,Cash,323,420
+2023-02-28,Запад,B2B,Sports,Non-Cash,601,780
+2023-02-28,Запад,B2B,Books,Cash,216,210
+2023-02-28,Запад,B2B,Books,Non-Cash,402,390
+2023-02-28,Запад,Mobile Commerce,Electronics,Cash,505,567
+2023-02-28,Запад,Mobile Commerce,Electronics,Non-Cash,937,1053
+2023-02-28,Запад,Mobile Commerce,Clothing,Cash,529,472
+2023-02-28,Запад,Mobile Commerce,Clothing,Non-Cash,983,878
+2023-02-28,Запад,Mobile Commerce,Home & Kitchen,Cash,290,284
+2023-02-28,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,537,526
+2023-02-28,Запад,Mobile Commerce,Sports,Cash,420,378
+2023-02-28,Запад,Mobile Commerce,Sports,Non-Cash,779,702
+2023-02-28,Запад,Mobile Commerce,Books,Cash,200,189
+2023-02-28,Запад,Mobile Commerce,Books,Non-Cash,372,351
+2023-02-28,Восток,B2C,Electronics,Cash,820,788
+2023-02-28,Восток,B2C,Electronics,Non-Cash,1520,1462
+2023-02-28,Восток,B2C,Clothing,Cash,794,656
+2023-02-28,Восток,B2C,Clothing,Non-Cash,1475,1219
+2023-02-28,Восток,B2C,Home & Kitchen,Cash,410,394
+2023-02-28,Восток,B2C,Home & Kitchen,Non-Cash,760,731
+2023-02-28,Восток,B2C,Sports,Cash,567,525
+2023-02-28,Восток,B2C,Sports,Non-Cash,1053,975
+2023-02-28,Восток,B2C,Books,Cash,228,262
+2023-02-28,Восток,B2C,Books,Non-Cash,425,488
+2023-02-28,Восток,B2B,Electronics,Cash,1124,1050
+2023-02-28,Восток,B2B,Electronics,Non-Cash,2086,1950
+2023-02-28,Восток,B2B,Clothing,Cash,1015,875
+2023-02-28,Восток,B2B,Clothing,Non-Cash,1885,1625
+2023-02-28,Восток,B2B,Home & Kitchen,Cash,478,525
+2023-02-28,Восток,B2B,Home & Kitchen,Non-Cash,887,975
+2023-02-28,Восток,B2B,Sports,Cash,539,700
+2023-02-28,Восток,B2B,Sports,Non-Cash,1001,1300
+2023-02-28,Восток,B2B,Books,Cash,290,350
+2023-02-28,Восток,B2B,Books,Non-Cash,540,650
+2023-02-28,Восток,Mobile Commerce,Electronics,Cash,803,945
+2023-02-28,Восток,Mobile Commerce,Electronics,Non-Cash,1492,1755
+2023-02-28,Восток,Mobile Commerce,Clothing,Cash,969,788
+2023-02-28,Восток,Mobile Commerce,Clothing,Non-Cash,1798,1462
+2023-02-28,Восток,Mobile Commerce,Home & Kitchen,Cash,477,472
+2023-02-28,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,887,878
+2023-02-28,Восток,Mobile Commerce,Sports,Cash,643,630
+2023-02-28,Восток,Mobile Commerce,Sports,Non-Cash,1193,1170
+2023-02-28,Восток,Mobile Commerce,Books,Cash,239,315
+2023-02-28,Восток,Mobile Commerce,Books,Non-Cash,445,585
+2023-03-31,Север,B2C,Electronics,Cash,236,315
+2023-03-31,Север,B2C,Electronics,Non-Cash,439,585
+2023-03-31,Север,B2C,Clothing,Cash,210,262
+2023-03-31,Север,B2C,Clothing,Non-Cash,390,488
+2023-03-31,Север,B2C,Home & Kitchen,Cash,156,158
+2023-03-31,Север,B2C,Home & Kitchen,Non-Cash,289,292
+2023-03-31,Север,B2C,Sports,Cash,229,210
+2023-03-31,Север,B2C,Sports,Non-Cash,425,390
+2023-03-31,Север,B2C,Books,Cash,94,105
+2023-03-31,Север,B2C,Books,Non-Cash,176,195
+2023-03-31,Север,B2B,Electronics,Cash,328,420
+2023-03-31,Север,B2B,Electronics,Non-Cash,608,780
+2023-03-31,Север,B2B,Clothing,Cash,424,350
+2023-03-31,Север,B2B,Clothing,Non-Cash,786,650
+2023-03-31,Север,B2B,Home & Kitchen,Cash,235,210
+2023-03-31,Север,B2B,Home & Kitchen,Non-Cash,437,390
+2023-03-31,Север,B2B,Sports,Cash,330,280
+2023-03-31,Север,B2B,Sports,Non-Cash,614,520
+2023-03-31,Север,B2B,Books,Cash,132,140
+2023-03-31,Север,B2B,Books,Non-Cash,244,260
+2023-03-31,Север,Mobile Commerce,Electronics,Cash,374,378
+2023-03-31,Север,Mobile Commerce,Electronics,Non-Cash,695,702
+2023-03-31,Север,Mobile Commerce,Clothing,Cash,255,315
+2023-03-31,Север,Mobile Commerce,Clothing,Non-Cash,474,585
+2023-03-31,Север,Mobile Commerce,Home & Kitchen,Cash,180,189
+2023-03-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,333,351
+2023-03-31,Север,Mobile Commerce,Sports,Cash,204,252
+2023-03-31,Север,Mobile Commerce,Sports,Non-Cash,379,468
+2023-03-31,Север,Mobile Commerce,Books,Cash,130,126
+2023-03-31,Север,Mobile Commerce,Books,Non-Cash,241,234
+2023-03-31,Запад,B2C,Electronics,Cash,382,472
+2023-03-31,Запад,B2C,Electronics,Non-Cash,711,878
+2023-03-31,Запад,B2C,Clothing,Cash,303,394
+2023-03-31,Запад,B2C,Clothing,Non-Cash,563,731
+2023-03-31,Запад,B2C,Home & Kitchen,Cash,243,236
+2023-03-31,Запад,B2C,Home & Kitchen,Non-Cash,452,439
+2023-03-31,Запад,B2C,Sports,Cash,324,315
+2023-03-31,Запад,B2C,Sports,Non-Cash,603,585
+2023-03-31,Запад,B2C,Books,Cash,179,158
+2023-03-31,Запад,B2C,Books,Non-Cash,330,292
+2023-03-31,Запад,B2B,Electronics,Cash,706,630
+2023-03-31,Запад,B2B,Electronics,Non-Cash,1310,1170
+2023-03-31,Запад,B2B,Clothing,Cash,420,525
+2023-03-31,Запад,B2B,Clothing,Non-Cash,780,975
+2023-03-31,Запад,B2B,Home & Kitchen,Cash,378,315
+2023-03-31,Запад,B2B,Home & Kitchen,Non-Cash,702,585
+2023-03-31,Запад,B2B,Sports,Cash,353,420
+2023-03-31,Запад,B2B,Sports,Non-Cash,655,780
+2023-03-31,Запад,B2B,Books,Cash,233,210
+2023-03-31,Запад,B2B,Books,Non-Cash,433,390
+2023-03-31,Запад,Mobile Commerce,Electronics,Cash,499,567
+2023-03-31,Запад,Mobile Commerce,Electronics,Non-Cash,927,1053
+2023-03-31,Запад,Mobile Commerce,Clothing,Cash,453,472
+2023-03-31,Запад,Mobile Commerce,Clothing,Non-Cash,843,878
+2023-03-31,Запад,Mobile Commerce,Home & Kitchen,Cash,301,284
+2023-03-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,558,526
+2023-03-31,Запад,Mobile Commerce,Sports,Cash,348,378
+2023-03-31,Запад,Mobile Commerce,Sports,Non-Cash,646,702
+2023-03-31,Запад,Mobile Commerce,Books,Cash,208,189
+2023-03-31,Запад,Mobile Commerce,Books,Non-Cash,386,351
+2023-03-31,Восток,B2C,Electronics,Cash,946,788
+2023-03-31,Восток,B2C,Electronics,Non-Cash,1754,1462
+2023-03-31,Восток,B2C,Clothing,Cash,544,656
+2023-03-31,Восток,B2C,Clothing,Non-Cash,1012,1219
+2023-03-31,Восток,B2C,Home & Kitchen,Cash,394,394
+2023-03-31,Восток,B2C,Home & Kitchen,Non-Cash,731,731
+2023-03-31,Восток,B2C,Sports,Cash,504,525
+2023-03-31,Восток,B2C,Sports,Non-Cash,936,975
+2023-03-31,Восток,B2C,Books,Cash,314,262
+2023-03-31,Восток,B2C,Books,Non-Cash,586,488
+2023-03-31,Восток,B2B,Electronics,Cash,1176,1050
+2023-03-31,Восток,B2B,Electronics,Non-Cash,2184,1950
+2023-03-31,Восток,B2B,Clothing,Cash,849,875
+2023-03-31,Восток,B2B,Clothing,Non-Cash,1576,1625
+2023-03-31,Восток,B2B,Home & Kitchen,Cash,478,525
+2023-03-31,Восток,B2B,Home & Kitchen,Non-Cash,887,975
+2023-03-31,Восток,B2B,Sports,Cash,700,700
+2023-03-31,Восток,B2B,Sports,Non-Cash,1300,1300
+2023-03-31,Восток,B2B,Books,Cash,424,350
+2023-03-31,Восток,B2B,Books,Non-Cash,786,650
+2023-03-31,Восток,Mobile Commerce,Electronics,Cash,1058,945
+2023-03-31,Восток,Mobile Commerce,Electronics,Non-Cash,1966,1755
+2023-03-31,Восток,Mobile Commerce,Clothing,Cash,599,788
+2023-03-31,Восток,Mobile Commerce,Clothing,Non-Cash,1111,1462
+2023-03-31,Восток,Mobile Commerce,Home & Kitchen,Cash,378,472
+2023-03-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,702,878
+2023-03-31,Восток,Mobile Commerce,Sports,Cash,510,630
+2023-03-31,Восток,Mobile Commerce,Sports,Non-Cash,948,1170
+2023-03-31,Восток,Mobile Commerce,Books,Cash,274,315
+2023-03-31,Восток,Mobile Commerce,Books,Non-Cash,509,585
+2023-04-30,Север,B2C,Electronics,Cash,318,315
+2023-04-30,Север,B2C,Electronics,Non-Cash,591,585
+2023-04-30,Север,B2C,Clothing,Cash,223,262
+2023-04-30,Север,B2C,Clothing,Non-Cash,415,488
+2023-04-30,Север,B2C,Home & Kitchen,Cash,141,158
+2023-04-30,Север,B2C,Home & Kitchen,Non-Cash,260,292
+2023-04-30,Север,B2C,Sports,Cash,174,210
+2023-04-30,Север,B2C,Sports,Non-Cash,324,390
+2023-04-30,Север,B2C,Books,Cash,86,105
+2023-04-30,Север,B2C,Books,Non-Cash,160,195
+2023-04-30,Север,B2B,Electronics,Cash,504,420
+2023-04-30,Север,B2B,Electronics,Non-Cash,936,780
+2023-04-30,Север,B2B,Clothing,Cash,280,350
+2023-04-30,Север,B2B,Clothing,Non-Cash,520,650
+2023-04-30,Север,B2B,Home & Kitchen,Cash,256,210
+2023-04-30,Север,B2B,Home & Kitchen,Non-Cash,476,390
+2023-04-30,Север,B2B,Sports,Cash,328,280
+2023-04-30,Север,B2B,Sports,Non-Cash,608,520
+2023-04-30,Север,B2B,Books,Cash,109,140
+2023-04-30,Север,B2B,Books,Non-Cash,203,260
+2023-04-30,Север,Mobile Commerce,Electronics,Cash,321,378
+2023-04-30,Север,Mobile Commerce,Electronics,Non-Cash,597,702
+2023-04-30,Север,Mobile Commerce,Clothing,Cash,321,315
+2023-04-30,Север,Mobile Commerce,Clothing,Non-Cash,597,585
+2023-04-30,Север,Mobile Commerce,Home & Kitchen,Cash,189,189
+2023-04-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,351,351
+2023-04-30,Север,Mobile Commerce,Sports,Cash,197,252
+2023-04-30,Север,Mobile Commerce,Sports,Non-Cash,365,468
+2023-04-30,Север,Mobile Commerce,Books,Cash,112,126
+2023-04-30,Север,Mobile Commerce,Books,Non-Cash,208,234
+2023-04-30,Запад,B2C,Electronics,Cash,439,472
+2023-04-30,Запад,B2C,Electronics,Non-Cash,817,878
+2023-04-30,Запад,B2C,Clothing,Cash,315,394
+2023-04-30,Запад,B2C,Clothing,Non-Cash,585,731
+2023-04-30,Запад,B2C,Home & Kitchen,Cash,186,236
+2023-04-30,Запад,B2C,Home & Kitchen,Non-Cash,347,439
+2023-04-30,Запад,B2C,Sports,Cash,290,315
+2023-04-30,Запад,B2C,Sports,Non-Cash,538,585
+2023-04-30,Запад,B2C,Books,Cash,126,158
+2023-04-30,Запад,B2C,Books,Non-Cash,234,292
+2023-04-30,Запад,B2B,Electronics,Cash,662,630
+2023-04-30,Запад,B2B,Electronics,Non-Cash,1228,1170
+2023-04-30,Запад,B2B,Clothing,Cash,520,525
+2023-04-30,Запад,B2B,Clothing,Non-Cash,965,975
+2023-04-30,Запад,B2B,Home & Kitchen,Cash,246,315
+2023-04-30,Запад,B2B,Home & Kitchen,Non-Cash,456,585
+2023-04-30,Запад,B2B,Sports,Cash,336,420
+2023-04-30,Запад,B2B,Sports,Non-Cash,624,780
+2023-04-30,Запад,B2B,Books,Cash,241,210
+2023-04-30,Запад,B2B,Books,Non-Cash,448,390
+2023-04-30,Запад,Mobile Commerce,Electronics,Cash,629,567
+2023-04-30,Запад,Mobile Commerce,Electronics,Non-Cash,1169,1053
+2023-04-30,Запад,Mobile Commerce,Clothing,Cash,585,472
+2023-04-30,Запад,Mobile Commerce,Clothing,Non-Cash,1089,878
+2023-04-30,Запад,Mobile Commerce,Home & Kitchen,Cash,281,284
+2023-04-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,521,526
+2023-04-30,Запад,Mobile Commerce,Sports,Cash,408,378
+2023-04-30,Запад,Mobile Commerce,Sports,Non-Cash,758,702
+2023-04-30,Запад,Mobile Commerce,Books,Cash,176,189
+2023-04-30,Запад,Mobile Commerce,Books,Non-Cash,326,351
+2023-04-30,Восток,B2C,Electronics,Cash,851,788
+2023-04-30,Восток,B2C,Electronics,Non-Cash,1579,1462
+2023-04-30,Восток,B2C,Clothing,Cash,584,656
+2023-04-30,Восток,B2C,Clothing,Non-Cash,1085,1219
+2023-04-30,Восток,B2C,Home & Kitchen,Cash,489,394
+2023-04-30,Восток,B2C,Home & Kitchen,Non-Cash,906,731
+2023-04-30,Восток,B2C,Sports,Cash,431,525
+2023-04-30,Восток,B2C,Sports,Non-Cash,800,975
+2023-04-30,Восток,B2C,Books,Cash,309,262
+2023-04-30,Восток,B2C,Books,Non-Cash,576,488
+2023-04-30,Восток,B2B,Electronics,Cash,1270,1050
+2023-04-30,Восток,B2B,Electronics,Non-Cash,2360,1950
+2023-04-30,Восток,B2B,Clothing,Cash,1076,875
+2023-04-30,Восток,B2B,Clothing,Non-Cash,1999,1625
+2023-04-30,Восток,B2B,Home & Kitchen,Cash,567,525
+2023-04-30,Восток,B2B,Home & Kitchen,Non-Cash,1053,975
+2023-04-30,Восток,B2B,Sports,Cash,644,700
+2023-04-30,Восток,B2B,Sports,Non-Cash,1196,1300
+2023-04-30,Восток,B2B,Books,Cash,364,350
+2023-04-30,Восток,B2B,Books,Non-Cash,676,650
+2023-04-30,Восток,Mobile Commerce,Electronics,Cash,822,945
+2023-04-30,Восток,Mobile Commerce,Electronics,Non-Cash,1527,1755
+2023-04-30,Восток,Mobile Commerce,Clothing,Cash,953,788
+2023-04-30,Восток,Mobile Commerce,Clothing,Non-Cash,1769,1462
+2023-04-30,Восток,Mobile Commerce,Home & Kitchen,Cash,505,472
+2023-04-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,939,878
+2023-04-30,Восток,Mobile Commerce,Sports,Cash,687,630
+2023-04-30,Восток,Mobile Commerce,Sports,Non-Cash,1275,1170
+2023-04-30,Восток,Mobile Commerce,Books,Cash,309,315
+2023-04-30,Восток,Mobile Commerce,Books,Non-Cash,573,585
+2023-05-31,Север,B2C,Electronics,Cash,315,315
+2023-05-31,Север,B2C,Electronics,Non-Cash,585,585
+2023-05-31,Север,B2C,Clothing,Cash,317,262
+2023-05-31,Север,B2C,Clothing,Non-Cash,590,488
+2023-05-31,Север,B2C,Home & Kitchen,Cash,186,158
+2023-05-31,Север,B2C,Home & Kitchen,Non-Cash,345,292
+2023-05-31,Север,B2C,Sports,Cash,244,210
+2023-05-31,Север,B2C,Sports,Non-Cash,452,390
+2023-05-31,Север,B2C,Books,Cash,127,105
+2023-05-31,Север,B2C,Books,Non-Cash,236,195
+2023-05-31,Север,B2B,Electronics,Cash,315,420
+2023-05-31,Север,B2B,Electronics,Non-Cash,585,780
+2023-05-31,Север,B2B,Clothing,Cash,304,350
+2023-05-31,Север,B2B,Clothing,Non-Cash,566,650
+2023-05-31,Север,B2B,Home & Kitchen,Cash,176,210
+2023-05-31,Север,B2B,Home & Kitchen,Non-Cash,328,390
+2023-05-31,Север,B2B,Sports,Cash,260,280
+2023-05-31,Север,B2B,Sports,Non-Cash,484,520
+2023-05-31,Север,B2B,Books,Cash,111,140
+2023-05-31,Север,B2B,Books,Non-Cash,205,260
+2023-05-31,Север,Mobile Commerce,Electronics,Cash,310,378
+2023-05-31,Север,Mobile Commerce,Electronics,Non-Cash,576,702
+2023-05-31,Север,Mobile Commerce,Clothing,Cash,246,315
+2023-05-31,Север,Mobile Commerce,Clothing,Non-Cash,456,585
+2023-05-31,Север,Mobile Commerce,Home & Kitchen,Cash,232,189
+2023-05-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,432,351
+2023-05-31,Север,Mobile Commerce,Sports,Cash,219,252
+2023-05-31,Север,Mobile Commerce,Sports,Non-Cash,407,468
+2023-05-31,Север,Mobile Commerce,Books,Cash,141,126
+2023-05-31,Север,Mobile Commerce,Books,Non-Cash,262,234
+2023-05-31,Запад,B2C,Electronics,Cash,566,472
+2023-05-31,Запад,B2C,Electronics,Non-Cash,1054,878
+2023-05-31,Запад,B2C,Clothing,Cash,485,394
+2023-05-31,Запад,B2C,Clothing,Non-Cash,899,731
+2023-05-31,Запад,B2C,Home & Kitchen,Cash,283,236
+2023-05-31,Запад,B2C,Home & Kitchen,Non-Cash,527,439
+2023-05-31,Запад,B2C,Sports,Cash,293,315
+2023-05-31,Запад,B2C,Sports,Non-Cash,544,585
+2023-05-31,Запад,B2C,Books,Cash,196,158
+2023-05-31,Запад,B2C,Books,Non-Cash,362,292
+2023-05-31,Запад,B2B,Electronics,Cash,517,630
+2023-05-31,Запад,B2B,Electronics,Non-Cash,959,1170
+2023-05-31,Запад,B2B,Clothing,Cash,530,525
+2023-05-31,Запад,B2B,Clothing,Non-Cash,985,975
+2023-05-31,Запад,B2B,Home & Kitchen,Cash,391,315
+2023-05-31,Запад,B2B,Home & Kitchen,Non-Cash,725,585
+2023-05-31,Запад,B2B,Sports,Cash,508,420
+2023-05-31,Запад,B2B,Sports,Non-Cash,944,780
+2023-05-31,Запад,B2B,Books,Cash,218,210
+2023-05-31,Запад,B2B,Books,Non-Cash,406,390
+2023-05-31,Запад,Mobile Commerce,Electronics,Cash,442,567
+2023-05-31,Запад,Mobile Commerce,Electronics,Non-Cash,821,1053
+2023-05-31,Запад,Mobile Commerce,Clothing,Cash,401,472
+2023-05-31,Запад,Mobile Commerce,Clothing,Non-Cash,746,878
+2023-05-31,Запад,Mobile Commerce,Home & Kitchen,Cash,270,284
+2023-05-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,500,526
+2023-05-31,Запад,Mobile Commerce,Sports,Cash,442,378
+2023-05-31,Запад,Mobile Commerce,Sports,Non-Cash,821,702
+2023-05-31,Запад,Mobile Commerce,Books,Cash,144,189
+2023-05-31,Запад,Mobile Commerce,Books,Non-Cash,267,351
+2023-05-31,Восток,B2C,Electronics,Cash,749,788
+2023-05-31,Восток,B2C,Electronics,Non-Cash,1389,1462
+2023-05-31,Восток,B2C,Clothing,Cash,597,656
+2023-05-31,Восток,B2C,Clothing,Non-Cash,1109,1219
+2023-05-31,Восток,B2C,Home & Kitchen,Cash,461,394
+2023-05-31,Восток,B2C,Home & Kitchen,Non-Cash,855,731
+2023-05-31,Восток,B2C,Sports,Cash,541,525
+2023-05-31,Восток,B2C,Sports,Non-Cash,1004,975
+2023-05-31,Восток,B2C,Books,Cash,265,262
+2023-05-31,Восток,B2C,Books,Non-Cash,493,488
+2023-05-31,Восток,B2B,Electronics,Cash,1029,1050
+2023-05-31,Восток,B2B,Electronics,Non-Cash,1911,1950
+2023-05-31,Восток,B2B,Clothing,Cash,1076,875
+2023-05-31,Восток,B2B,Clothing,Non-Cash,1999,1625
+2023-05-31,Восток,B2B,Home & Kitchen,Cash,404,525
+2023-05-31,Восток,B2B,Home & Kitchen,Non-Cash,751,975
+2023-05-31,Восток,B2B,Sports,Cash,791,700
+2023-05-31,Восток,B2B,Sports,Non-Cash,1469,1300
+2023-05-31,Восток,B2B,Books,Cash,294,350
+2023-05-31,Восток,B2B,Books,Non-Cash,546,650
+2023-05-31,Восток,Mobile Commerce,Electronics,Cash,728,945
+2023-05-31,Восток,Mobile Commerce,Electronics,Non-Cash,1351,1755
+2023-05-31,Восток,Mobile Commerce,Clothing,Cash,938,788
+2023-05-31,Восток,Mobile Commerce,Clothing,Non-Cash,1740,1462
+2023-05-31,Восток,Mobile Commerce,Home & Kitchen,Cash,548,472
+2023-05-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,1018,878
+2023-05-31,Восток,Mobile Commerce,Sports,Cash,630,630
+2023-05-31,Восток,Mobile Commerce,Sports,Non-Cash,1170,1170
+2023-05-31,Восток,Mobile Commerce,Books,Cash,350,315
+2023-05-31,Восток,Mobile Commerce,Books,Non-Cash,649,585
+2023-06-30,Север,B2C,Electronics,Cash,318,315
+2023-06-30,Север,B2C,Electronics,Non-Cash,591,585
+2023-06-30,Север,B2C,Clothing,Cash,207,262
+2023-06-30,Север,B2C,Clothing,Non-Cash,386,488
+2023-06-30,Север,B2C,Home & Kitchen,Cash,183,158
+2023-06-30,Север,B2C,Home & Kitchen,Non-Cash,339,292
+2023-06-30,Север,B2C,Sports,Cash,178,210
+2023-06-30,Север,B2C,Sports,Non-Cash,332,390
+2023-06-30,Север,B2C,Books,Cash,91,105
+2023-06-30,Север,B2C,Books,Non-Cash,170,195
+2023-06-30,Север,B2B,Electronics,Cash,483,420
+2023-06-30,Север,B2B,Electronics,Non-Cash,897,780
+2023-06-30,Север,B2B,Clothing,Cash,378,350
+2023-06-30,Север,B2B,Clothing,Non-Cash,702,650
+2023-06-30,Север,B2B,Home & Kitchen,Cash,235,210
+2023-06-30,Север,B2B,Home & Kitchen,Non-Cash,437,390
+2023-06-30,Север,B2B,Sports,Cash,319,280
+2023-06-30,Север,B2B,Sports,Non-Cash,593,520
+2023-06-30,Север,B2B,Books,Cash,150,140
+2023-06-30,Север,B2B,Books,Non-Cash,278,260
+2023-06-30,Север,Mobile Commerce,Electronics,Cash,408,378
+2023-06-30,Север,Mobile Commerce,Electronics,Non-Cash,758,702
+2023-06-30,Север,Mobile Commerce,Clothing,Cash,318,315
+2023-06-30,Север,Mobile Commerce,Clothing,Non-Cash,591,585
+2023-06-30,Север,Mobile Commerce,Home & Kitchen,Cash,208,189
+2023-06-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,386,351
+2023-06-30,Север,Mobile Commerce,Sports,Cash,252,252
+2023-06-30,Север,Mobile Commerce,Sports,Non-Cash,468,468
+2023-06-30,Север,Mobile Commerce,Books,Cash,125,126
+2023-06-30,Север,Mobile Commerce,Books,Non-Cash,232,234
+2023-06-30,Запад,B2C,Electronics,Cash,439,472
+2023-06-30,Запад,B2C,Electronics,Non-Cash,817,878
+2023-06-30,Запад,B2C,Clothing,Cash,374,394
+2023-06-30,Запад,B2C,Clothing,Non-Cash,694,731
+2023-06-30,Запад,B2C,Home & Kitchen,Cash,248,236
+2023-06-30,Запад,B2C,Home & Kitchen,Non-Cash,461,439
+2023-06-30,Запад,B2C,Sports,Cash,324,315
+2023-06-30,Запад,B2C,Sports,Non-Cash,603,585
+2023-06-30,Запад,B2C,Books,Cash,131,158
+2023-06-30,Запад,B2C,Books,Non-Cash,242,292
+2023-06-30,Запад,B2B,Electronics,Cash,586,630
+2023-06-30,Запад,B2B,Electronics,Non-Cash,1088,1170
+2023-06-30,Запад,B2B,Clothing,Cash,525,525
+2023-06-30,Запад,B2B,Clothing,Non-Cash,975,975
+2023-06-30,Запад,B2B,Home & Kitchen,Cash,312,315
+2023-06-30,Запад,B2B,Home & Kitchen,Non-Cash,579,585
+2023-06-30,Запад,B2B,Sports,Cash,479,420
+2023-06-30,Запад,B2B,Sports,Non-Cash,889,780
+2023-06-30,Запад,B2B,Books,Cash,246,210
+2023-06-30,Запад,B2B,Books,Non-Cash,456,390
+2023-06-30,Запад,Mobile Commerce,Electronics,Cash,584,567
+2023-06-30,Запад,Mobile Commerce,Electronics,Non-Cash,1085,1053
+2023-06-30,Запад,Mobile Commerce,Clothing,Cash,467,472
+2023-06-30,Запад,Mobile Commerce,Clothing,Non-Cash,869,878
+2023-06-30,Запад,Mobile Commerce,Home & Kitchen,Cash,264,284
+2023-06-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,489,526
+2023-06-30,Запад,Mobile Commerce,Sports,Cash,295,378
+2023-06-30,Запад,Mobile Commerce,Sports,Non-Cash,548,702
+2023-06-30,Запад,Mobile Commerce,Books,Cash,225,189
+2023-06-30,Запад,Mobile Commerce,Books,Non-Cash,418,351
+2023-06-30,Восток,B2C,Electronics,Cash,741,788
+2023-06-30,Восток,B2C,Electronics,Non-Cash,1374,1462
+2023-06-30,Восток,B2C,Clothing,Cash,787,656
+2023-06-30,Восток,B2C,Clothing,Non-Cash,1463,1219
+2023-06-30,Восток,B2C,Home & Kitchen,Cash,296,394
+2023-06-30,Восток,B2C,Home & Kitchen,Non-Cash,548,731
+2023-06-30,Восток,B2C,Sports,Cash,446,525
+2023-06-30,Восток,B2C,Sports,Non-Cash,829,975
+2023-06-30,Восток,B2C,Books,Cash,204,262
+2023-06-30,Восток,B2C,Books,Non-Cash,381,488
+2023-06-30,Восток,B2B,Electronics,Cash,850,1050
+2023-06-30,Восток,B2B,Electronics,Non-Cash,1580,1950
+2023-06-30,Восток,B2B,Clothing,Cash,892,875
+2023-06-30,Восток,B2B,Clothing,Non-Cash,1658,1625
+2023-06-30,Восток,B2B,Home & Kitchen,Cash,578,525
+2023-06-30,Восток,B2B,Home & Kitchen,Non-Cash,1072,975
+2023-06-30,Восток,B2B,Sports,Cash,567,700
+2023-06-30,Восток,B2B,Sports,Non-Cash,1053,1300
+2023-06-30,Восток,B2B,Books,Cash,329,350
+2023-06-30,Восток,B2B,Books,Non-Cash,611,650
+2023-06-30,Восток,Mobile Commerce,Electronics,Cash,1030,945
+2023-06-30,Восток,Mobile Commerce,Electronics,Non-Cash,1913,1755
+2023-06-30,Восток,Mobile Commerce,Clothing,Cash,890,788
+2023-06-30,Восток,Mobile Commerce,Clothing,Non-Cash,1652,1462
+2023-06-30,Восток,Mobile Commerce,Home & Kitchen,Cash,448,472
+2023-06-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,834,878
+2023-06-30,Восток,Mobile Commerce,Sports,Cash,743,630
+2023-06-30,Восток,Mobile Commerce,Sports,Non-Cash,1381,1170
+2023-06-30,Восток,Mobile Commerce,Books,Cash,236,315
+2023-06-30,Восток,Mobile Commerce,Books,Non-Cash,439,585
+2023-07-31,Север,B2C,Electronics,Cash,350,315
+2023-07-31,Север,B2C,Electronics,Non-Cash,649,585
+2023-07-31,Север,B2C,Clothing,Cash,314,262
+2023-07-31,Север,B2C,Clothing,Non-Cash,586,488
+2023-07-31,Север,B2C,Home & Kitchen,Cash,183,158
+2023-07-31,Север,B2C,Home & Kitchen,Non-Cash,339,292
+2023-07-31,Север,B2C,Sports,Cash,162,210
+2023-07-31,Север,B2C,Sports,Non-Cash,300,390
+2023-07-31,Север,B2C,Books,Cash,113,105
+2023-07-31,Север,B2C,Books,Non-Cash,211,195
+2023-07-31,Север,B2B,Electronics,Cash,365,420
+2023-07-31,Север,B2B,Electronics,Non-Cash,679,780
+2023-07-31,Север,B2B,Clothing,Cash,315,350
+2023-07-31,Север,B2B,Clothing,Non-Cash,585,650
+2023-07-31,Север,B2B,Home & Kitchen,Cash,227,210
+2023-07-31,Север,B2B,Home & Kitchen,Non-Cash,421,390
+2023-07-31,Север,B2B,Sports,Cash,274,280
+2023-07-31,Север,B2B,Sports,Non-Cash,510,520
+2023-07-31,Север,B2B,Books,Cash,122,140
+2023-07-31,Север,B2B,Books,Non-Cash,226,260
+2023-07-31,Север,Mobile Commerce,Electronics,Cash,302,378
+2023-07-31,Север,Mobile Commerce,Electronics,Non-Cash,562,702
+2023-07-31,Север,Mobile Commerce,Clothing,Cash,356,315
+2023-07-31,Север,Mobile Commerce,Clothing,Non-Cash,661,585
+2023-07-31,Север,Mobile Commerce,Home & Kitchen,Cash,144,189
+2023-07-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,267,351
+2023-07-31,Север,Mobile Commerce,Sports,Cash,214,252
+2023-07-31,Север,Mobile Commerce,Sports,Non-Cash,398,468
+2023-07-31,Север,Mobile Commerce,Books,Cash,102,126
+2023-07-31,Север,Mobile Commerce,Books,Non-Cash,190,234
+2023-07-31,Запад,B2C,Electronics,Cash,382,472
+2023-07-31,Запад,B2C,Electronics,Non-Cash,711,878
+2023-07-31,Запад,B2C,Clothing,Cash,445,394
+2023-07-31,Запад,B2C,Clothing,Non-Cash,826,731
+2023-07-31,Запад,B2C,Home & Kitchen,Cash,267,236
+2023-07-31,Запад,B2C,Home & Kitchen,Non-Cash,496,439
+2023-07-31,Запад,B2C,Sports,Cash,271,315
+2023-07-31,Запад,B2C,Sports,Non-Cash,503,585
+2023-07-31,Запад,B2C,Books,Cash,152,158
+2023-07-31,Запад,B2C,Books,Non-Cash,280,292
+2023-07-31,Запад,B2B,Electronics,Cash,485,630
+2023-07-31,Запад,B2B,Electronics,Non-Cash,901,1170
+2023-07-31,Запад,B2B,Clothing,Cash,457,525
+2023-07-31,Запад,B2B,Clothing,Non-Cash,848,975
+2023-07-31,Запад,B2B,Home & Kitchen,Cash,328,315
+2023-07-31,Запад,B2B,Home & Kitchen,Non-Cash,608,585
+2023-07-31,Запад,B2B,Sports,Cash,353,420
+2023-07-31,Запад,B2B,Sports,Non-Cash,655,780
+2023-07-31,Запад,B2B,Books,Cash,174,210
+2023-07-31,Запад,B2B,Books,Non-Cash,324,390
+2023-07-31,Запад,Mobile Commerce,Electronics,Cash,454,567
+2023-07-31,Запад,Mobile Commerce,Electronics,Non-Cash,842,1053
+2023-07-31,Запад,Mobile Commerce,Clothing,Cash,557,472
+2023-07-31,Запад,Mobile Commerce,Clothing,Non-Cash,1036,878
+2023-07-31,Запад,Mobile Commerce,Home & Kitchen,Cash,216,284
+2023-07-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,400,526
+2023-07-31,Запад,Mobile Commerce,Sports,Cash,446,378
+2023-07-31,Запад,Mobile Commerce,Sports,Non-Cash,828,702
+2023-07-31,Запад,Mobile Commerce,Books,Cash,170,189
+2023-07-31,Запад,Mobile Commerce,Books,Non-Cash,316,351
+2023-07-31,Восток,B2C,Electronics,Cash,686,788
+2023-07-31,Восток,B2C,Electronics,Non-Cash,1272,1462
+2023-07-31,Восток,B2C,Clothing,Cash,800,656
+2023-07-31,Восток,B2C,Clothing,Non-Cash,1487,1219
+2023-07-31,Восток,B2C,Home & Kitchen,Cash,343,394
+2023-07-31,Восток,B2C,Home & Kitchen,Non-Cash,636,731
+2023-07-31,Восток,B2C,Sports,Cash,504,525
+2023-07-31,Восток,B2C,Sports,Non-Cash,936,975
+2023-07-31,Восток,B2C,Books,Cash,244,262
+2023-07-31,Восток,B2C,Books,Non-Cash,454,488
+2023-07-31,Восток,B2B,Electronics,Cash,1050,1050
+2023-07-31,Восток,B2B,Electronics,Non-Cash,1950,1950
+2023-07-31,Восток,B2B,Clothing,Cash,770,875
+2023-07-31,Восток,B2B,Clothing,Non-Cash,1430,1625
+2023-07-31,Восток,B2B,Home & Kitchen,Cash,551,525
+2023-07-31,Восток,B2B,Home & Kitchen,Non-Cash,1024,975
+2023-07-31,Восток,B2B,Sports,Cash,721,700
+2023-07-31,Восток,B2B,Sports,Non-Cash,1339,1300
+2023-07-31,Восток,B2B,Books,Cash,416,350
+2023-07-31,Восток,B2B,Books,Non-Cash,774,650
+2023-07-31,Восток,Mobile Commerce,Electronics,Cash,1096,945
+2023-07-31,Восток,Mobile Commerce,Electronics,Non-Cash,2036,1755
+2023-07-31,Восток,Mobile Commerce,Clothing,Cash,756,788
+2023-07-31,Восток,Mobile Commerce,Clothing,Non-Cash,1404,1462
+2023-07-31,Восток,Mobile Commerce,Home & Kitchen,Cash,382,472
+2023-07-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,711,878
+2023-07-31,Восток,Mobile Commerce,Sports,Cash,699,630
+2023-07-31,Восток,Mobile Commerce,Sports,Non-Cash,1299,1170
+2023-07-31,Восток,Mobile Commerce,Books,Cash,387,315
+2023-07-31,Восток,Mobile Commerce,Books,Non-Cash,720,585
+2023-08-31,Север,B2C,Electronics,Cash,362,315
+2023-08-31,Север,B2C,Electronics,Non-Cash,673,585
+2023-08-31,Север,B2C,Clothing,Cash,265,262
+2023-08-31,Север,B2C,Clothing,Non-Cash,493,488
+2023-08-31,Север,B2C,Home & Kitchen,Cash,166,158
+2023-08-31,Север,B2C,Home & Kitchen,Non-Cash,307,292
+2023-08-31,Север,B2C,Sports,Cash,168,210
+2023-08-31,Север,B2C,Sports,Non-Cash,312,390
+2023-08-31,Север,B2C,Books,Cash,94,105
+2023-08-31,Север,B2C,Books,Non-Cash,176,195
+2023-08-31,Север,B2B,Electronics,Cash,470,420
+2023-08-31,Север,B2B,Electronics,Non-Cash,874,780
+2023-08-31,Север,B2B,Clothing,Cash,392,350
+2023-08-31,Север,B2B,Clothing,Non-Cash,728,650
+2023-08-31,Север,B2B,Home & Kitchen,Cash,260,210
+2023-08-31,Север,B2B,Home & Kitchen,Non-Cash,484,390
+2023-08-31,Север,B2B,Sports,Cash,297,280
+2023-08-31,Север,B2B,Sports,Non-Cash,551,520
+2023-08-31,Север,B2B,Books,Cash,150,140
+2023-08-31,Север,B2B,Books,Non-Cash,278,260
+2023-08-31,Север,Mobile Commerce,Electronics,Cash,465,378
+2023-08-31,Север,Mobile Commerce,Electronics,Non-Cash,863,702
+2023-08-31,Север,Mobile Commerce,Clothing,Cash,287,315
+2023-08-31,Север,Mobile Commerce,Clothing,Non-Cash,532,585
+2023-08-31,Север,Mobile Commerce,Home & Kitchen,Cash,202,189
+2023-08-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,376,351
+2023-08-31,Север,Mobile Commerce,Sports,Cash,214,252
+2023-08-31,Север,Mobile Commerce,Sports,Non-Cash,398,468
+2023-08-31,Север,Mobile Commerce,Books,Cash,110,126
+2023-08-31,Север,Mobile Commerce,Books,Non-Cash,204,234
+2023-08-31,Запад,B2C,Electronics,Cash,491,472
+2023-08-31,Запад,B2C,Electronics,Non-Cash,913,878
+2023-08-31,Запад,B2C,Clothing,Cash,296,394
+2023-08-31,Запад,B2C,Clothing,Non-Cash,548,731
+2023-08-31,Запад,B2C,Home & Kitchen,Cash,245,236
+2023-08-31,Запад,B2C,Home & Kitchen,Non-Cash,457,439
+2023-08-31,Запад,B2C,Sports,Cash,318,315
+2023-08-31,Запад,B2C,Sports,Non-Cash,591,585
+2023-08-31,Запад,B2C,Books,Cash,180,158
+2023-08-31,Запад,B2C,Books,Non-Cash,333,292
+2023-08-31,Запад,B2B,Electronics,Cash,611,630
+2023-08-31,Запад,B2B,Electronics,Non-Cash,1135,1170
+2023-08-31,Запад,B2B,Clothing,Cash,494,525
+2023-08-31,Запад,B2B,Clothing,Non-Cash,916,975
+2023-08-31,Запад,B2B,Home & Kitchen,Cash,252,315
+2023-08-31,Запад,B2B,Home & Kitchen,Non-Cash,468,585
+2023-08-31,Запад,B2B,Sports,Cash,466,420
+2023-08-31,Запад,B2B,Sports,Non-Cash,866,780
+2023-08-31,Запад,B2B,Books,Cash,197,210
+2023-08-31,Запад,B2B,Books,Non-Cash,367,390
+2023-08-31,Запад,Mobile Commerce,Electronics,Cash,629,567
+2023-08-31,Запад,Mobile Commerce,Electronics,Non-Cash,1169,1053
+2023-08-31,Запад,Mobile Commerce,Clothing,Cash,378,472
+2023-08-31,Запад,Mobile Commerce,Clothing,Non-Cash,702,878
+2023-08-31,Запад,Mobile Commerce,Home & Kitchen,Cash,293,284
+2023-08-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,542,526
+2023-08-31,Запад,Mobile Commerce,Sports,Cash,329,378
+2023-08-31,Запад,Mobile Commerce,Sports,Non-Cash,611,702
+2023-08-31,Запад,Mobile Commerce,Books,Cash,191,189
+2023-08-31,Запад,Mobile Commerce,Books,Non-Cash,355,351
+2023-08-31,Восток,B2C,Electronics,Cash,977,788
+2023-08-31,Восток,B2C,Electronics,Non-Cash,1813,1462
+2023-08-31,Восток,B2C,Clothing,Cash,617,656
+2023-08-31,Восток,B2C,Clothing,Non-Cash,1146,1219
+2023-08-31,Восток,B2C,Home & Kitchen,Cash,343,394
+2023-08-31,Восток,B2C,Home & Kitchen,Non-Cash,636,731
+2023-08-31,Восток,B2C,Sports,Cash,593,525
+2023-08-31,Восток,B2C,Sports,Non-Cash,1102,975
+2023-08-31,Восток,B2C,Books,Cash,215,262
+2023-08-31,Восток,B2C,Books,Non-Cash,400,488
+2023-08-31,Восток,B2B,Electronics,Cash,956,1050
+2023-08-31,Восток,B2B,Electronics,Non-Cash,1774,1950
+2023-08-31,Восток,B2B,Clothing,Cash,910,875
+2023-08-31,Восток,B2B,Clothing,Non-Cash,1690,1625
+2023-08-31,Восток,B2B,Home & Kitchen,Cash,394,525
+2023-08-31,Восток,B2B,Home & Kitchen,Non-Cash,731,975
+2023-08-31,Восток,B2B,Sports,Cash,686,700
+2023-08-31,Восток,B2B,Sports,Non-Cash,1274,1300
+2023-08-31,Восток,B2B,Books,Cash,315,350
+2023-08-31,Восток,B2B,Books,Non-Cash,585,650
+2023-08-31,Восток,Mobile Commerce,Electronics,Cash,803,945
+2023-08-31,Восток,Mobile Commerce,Electronics,Non-Cash,1492,1755
+2023-08-31,Восток,Mobile Commerce,Clothing,Cash,615,788
+2023-08-31,Восток,Mobile Commerce,Clothing,Non-Cash,1140,1462
+2023-08-31,Восток,Mobile Commerce,Home & Kitchen,Cash,368,472
+2023-08-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,685,878
+2023-08-31,Восток,Mobile Commerce,Sports,Cash,573,630
+2023-08-31,Восток,Mobile Commerce,Sports,Non-Cash,1065,1170
+2023-08-31,Восток,Mobile Commerce,Books,Cash,387,315
+2023-08-31,Восток,Mobile Commerce,Books,Non-Cash,720,585
+2023-09-30,Север,B2C,Electronics,Cash,265,315
+2023-09-30,Север,B2C,Electronics,Non-Cash,491,585
+2023-09-30,Север,B2C,Clothing,Cash,249,262
+2023-09-30,Север,B2C,Clothing,Non-Cash,464,488
+2023-09-30,Север,B2C,Home & Kitchen,Cash,177,158
+2023-09-30,Север,B2C,Home & Kitchen,Non-Cash,327,292
+2023-09-30,Север,B2C,Sports,Cash,258,210
+2023-09-30,Север,B2C,Sports,Non-Cash,480,390
+2023-09-30,Север,B2C,Books,Cash,97,105
+2023-09-30,Север,B2C,Books,Non-Cash,179,195
+2023-09-30,Север,B2B,Electronics,Cash,353,420
+2023-09-30,Север,B2B,Electronics,Non-Cash,655,780
+2023-09-30,Север,B2B,Clothing,Cash,416,350
+2023-09-30,Север,B2B,Clothing,Non-Cash,774,650
+2023-09-30,Север,B2B,Home & Kitchen,Cash,189,210
+2023-09-30,Север,B2B,Home & Kitchen,Non-Cash,351,390
+2023-09-30,Север,B2B,Sports,Cash,316,280
+2023-09-30,Север,B2B,Sports,Non-Cash,588,520
+2023-09-30,Север,B2B,Books,Cash,125,140
+2023-09-30,Север,B2B,Books,Non-Cash,231,260
+2023-09-30,Север,Mobile Commerce,Electronics,Cash,408,378
+2023-09-30,Север,Mobile Commerce,Electronics,Non-Cash,758,702
+2023-09-30,Север,Mobile Commerce,Clothing,Cash,249,315
+2023-09-30,Север,Mobile Commerce,Clothing,Non-Cash,462,585
+2023-09-30,Север,Mobile Commerce,Home & Kitchen,Cash,172,189
+2023-09-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,319,351
+2023-09-30,Север,Mobile Commerce,Sports,Cash,280,252
+2023-09-30,Север,Mobile Commerce,Sports,Non-Cash,519,468
+2023-09-30,Север,Mobile Commerce,Books,Cash,103,126
+2023-09-30,Север,Mobile Commerce,Books,Non-Cash,192,234
+2023-09-30,Запад,B2C,Electronics,Cash,463,472
+2023-09-30,Запад,B2C,Electronics,Non-Cash,860,878
+2023-09-30,Запад,B2C,Clothing,Cash,402,394
+2023-09-30,Запад,B2C,Clothing,Non-Cash,746,731
+2023-09-30,Запад,B2C,Home & Kitchen,Cash,286,236
+2023-09-30,Запад,B2C,Home & Kitchen,Non-Cash,531,439
+2023-09-30,Запад,B2C,Sports,Cash,258,315
+2023-09-30,Запад,B2C,Sports,Non-Cash,480,585
+2023-09-30,Запад,B2C,Books,Cash,153,158
+2023-09-30,Запад,B2C,Books,Non-Cash,283,292
+2023-09-30,Запад,B2B,Electronics,Cash,687,630
+2023-09-30,Запад,B2B,Electronics,Non-Cash,1275,1170
+2023-09-30,Запад,B2B,Clothing,Cash,551,525
+2023-09-30,Запад,B2B,Clothing,Non-Cash,1024,975
+2023-09-30,Запад,B2B,Home & Kitchen,Cash,287,315
+2023-09-30,Запад,B2B,Home & Kitchen,Non-Cash,532,585
+2023-09-30,Запад,B2B,Sports,Cash,428,420
+2023-09-30,Запад,B2B,Sports,Non-Cash,796,780
+2023-09-30,Запад,B2B,Books,Cash,256,210
+2023-09-30,Запад,B2B,Books,Non-Cash,476,390
+2023-09-30,Запад,Mobile Commerce,Electronics,Cash,692,567
+2023-09-30,Запад,Mobile Commerce,Electronics,Non-Cash,1285,1053
+2023-09-30,Запад,Mobile Commerce,Clothing,Cash,406,472
+2023-09-30,Запад,Mobile Commerce,Clothing,Non-Cash,755,878
+2023-09-30,Запад,Mobile Commerce,Home & Kitchen,Cash,278,284
+2023-09-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,515,526
+2023-09-30,Запад,Mobile Commerce,Sports,Cash,336,378
+2023-09-30,Запад,Mobile Commerce,Sports,Non-Cash,625,702
+2023-09-30,Запад,Mobile Commerce,Books,Cash,215,189
+2023-09-30,Запад,Mobile Commerce,Books,Non-Cash,400,351
+2023-09-30,Восток,B2C,Electronics,Cash,827,788
+2023-09-30,Восток,B2C,Electronics,Non-Cash,1535,1462
+2023-09-30,Восток,B2C,Clothing,Cash,663,656
+2023-09-30,Восток,B2C,Clothing,Non-Cash,1231,1219
+2023-09-30,Восток,B2C,Home & Kitchen,Cash,429,394
+2023-09-30,Восток,B2C,Home & Kitchen,Non-Cash,797,731
+2023-09-30,Восток,B2C,Sports,Cash,483,525
+2023-09-30,Восток,B2C,Sports,Non-Cash,897,975
+2023-09-30,Восток,B2C,Books,Cash,288,262
+2023-09-30,Восток,B2C,Books,Non-Cash,537,488
+2023-09-30,Восток,B2B,Electronics,Cash,861,1050
+2023-09-30,Восток,B2B,Electronics,Non-Cash,1599,1950
+2023-09-30,Восток,B2B,Clothing,Cash,1050,875
+2023-09-30,Восток,B2B,Clothing,Non-Cash,1950,1625
+2023-09-30,Восток,B2B,Home & Kitchen,Cash,646,525
+2023-09-30,Восток,B2B,Home & Kitchen,Non-Cash,1199,975
+2023-09-30,Восток,B2B,Sports,Cash,784,700
+2023-09-30,Восток,B2B,Sports,Non-Cash,1456,1300
+2023-09-30,Восток,B2B,Books,Cash,276,350
+2023-09-30,Восток,B2B,Books,Non-Cash,514,650
+2023-09-30,Восток,Mobile Commerce,Electronics,Cash,832,945
+2023-09-30,Восток,Mobile Commerce,Electronics,Non-Cash,1544,1755
+2023-09-30,Восток,Mobile Commerce,Clothing,Cash,883,788
+2023-09-30,Восток,Mobile Commerce,Clothing,Non-Cash,1637,1462
+2023-09-30,Восток,Mobile Commerce,Home & Kitchen,Cash,444,472
+2023-09-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,825,878
+2023-09-30,Восток,Mobile Commerce,Sports,Cash,743,630
+2023-09-30,Восток,Mobile Commerce,Sports,Non-Cash,1381,1170
+2023-09-30,Восток,Mobile Commerce,Books,Cash,261,315
+2023-09-30,Восток,Mobile Commerce,Books,Non-Cash,486,585
+2023-10-31,Север,B2C,Electronics,Cash,337,315
+2023-10-31,Север,B2C,Electronics,Non-Cash,626,585
+2023-10-31,Север,B2C,Clothing,Cash,241,262
+2023-10-31,Север,B2C,Clothing,Non-Cash,449,488
+2023-10-31,Север,B2C,Home & Kitchen,Cash,126,158
+2023-10-31,Север,B2C,Home & Kitchen,Non-Cash,234,292
+2023-10-31,Север,B2C,Sports,Cash,233,210
+2023-10-31,Север,B2C,Sports,Non-Cash,433,390
+2023-10-31,Север,B2C,Books,Cash,80,105
+2023-10-31,Север,B2C,Books,Non-Cash,148,195
+2023-10-31,Север,B2B,Electronics,Cash,437,420
+2023-10-31,Север,B2B,Electronics,Non-Cash,811,780
+2023-10-31,Север,B2B,Clothing,Cash,280,350
+2023-10-31,Север,B2B,Clothing,Non-Cash,520,650
+2023-10-31,Север,B2B,Home & Kitchen,Cash,191,210
+2023-10-31,Север,B2B,Home & Kitchen,Non-Cash,355,390
+2023-10-31,Север,B2B,Sports,Cash,316,280
+2023-10-31,Север,B2B,Sports,Non-Cash,588,520
+2023-10-31,Север,B2B,Books,Cash,161,140
+2023-10-31,Север,B2B,Books,Non-Cash,299,260
+2023-10-31,Север,Mobile Commerce,Electronics,Cash,367,378
+2023-10-31,Север,Mobile Commerce,Electronics,Non-Cash,681,702
+2023-10-31,Север,Mobile Commerce,Clothing,Cash,331,315
+2023-10-31,Север,Mobile Commerce,Clothing,Non-Cash,614,585
+2023-10-31,Север,Mobile Commerce,Home & Kitchen,Cash,178,189
+2023-10-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,330,351
+2023-10-31,Север,Mobile Commerce,Sports,Cash,199,252
+2023-10-31,Север,Mobile Commerce,Sports,Non-Cash,370,468
+2023-10-31,Север,Mobile Commerce,Books,Cash,120,126
+2023-10-31,Север,Mobile Commerce,Books,Non-Cash,222,234
+2023-10-31,Запад,B2C,Electronics,Cash,552,472
+2023-10-31,Запад,B2C,Electronics,Non-Cash,1027,878
+2023-10-31,Запад,B2C,Clothing,Cash,335,394
+2023-10-31,Запад,B2C,Clothing,Non-Cash,621,731
+2023-10-31,Запад,B2C,Home & Kitchen,Cash,184,236
+2023-10-31,Запад,B2C,Home & Kitchen,Non-Cash,342,439
+2023-10-31,Запад,B2C,Sports,Cash,306,315
+2023-10-31,Запад,B2C,Sports,Non-Cash,567,585
+2023-10-31,Запад,B2C,Books,Cash,177,158
+2023-10-31,Запад,B2C,Books,Non-Cash,327,292
+2023-10-31,Запад,B2B,Electronics,Cash,655,630
+2023-10-31,Запад,B2B,Electronics,Non-Cash,1217,1170
+2023-10-31,Запад,B2B,Clothing,Cash,609,525
+2023-10-31,Запад,B2B,Clothing,Non-Cash,1131,975
+2023-10-31,Запад,B2B,Home & Kitchen,Cash,362,315
+2023-10-31,Запад,B2B,Home & Kitchen,Non-Cash,673,585
+2023-10-31,Запад,B2B,Sports,Cash,386,420
+2023-10-31,Запад,B2B,Sports,Non-Cash,718,780
+2023-10-31,Запад,B2B,Books,Cash,241,210
+2023-10-31,Запад,B2B,Books,Non-Cash,448,390
+2023-10-31,Запад,Mobile Commerce,Electronics,Cash,663,567
+2023-10-31,Запад,Mobile Commerce,Electronics,Non-Cash,1232,1053
+2023-10-31,Запад,Mobile Commerce,Clothing,Cash,496,472
+2023-10-31,Запад,Mobile Commerce,Clothing,Non-Cash,922,878
+2023-10-31,Запад,Mobile Commerce,Home & Kitchen,Cash,295,284
+2023-10-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,547,526
+2023-10-31,Запад,Mobile Commerce,Sports,Cash,408,378
+2023-10-31,Запад,Mobile Commerce,Sports,Non-Cash,758,702
+2023-10-31,Запад,Mobile Commerce,Books,Cash,198,189
+2023-10-31,Запад,Mobile Commerce,Books,Non-Cash,369,351
+2023-10-31,Восток,B2C,Electronics,Cash,953,788
+2023-10-31,Восток,B2C,Electronics,Non-Cash,1769,1462
+2023-10-31,Восток,B2C,Clothing,Cash,735,656
+2023-10-31,Восток,B2C,Clothing,Non-Cash,1365,1219
+2023-10-31,Восток,B2C,Home & Kitchen,Cash,390,394
+2023-10-31,Восток,B2C,Home & Kitchen,Non-Cash,724,731
+2023-10-31,Восток,B2C,Sports,Cash,478,525
+2023-10-31,Восток,B2C,Sports,Non-Cash,887,975
+2023-10-31,Восток,B2C,Books,Cash,288,262
+2023-10-31,Восток,B2C,Books,Non-Cash,537,488
+2023-10-31,Восток,B2B,Electronics,Cash,1197,1050
+2023-10-31,Восток,B2B,Electronics,Non-Cash,2223,1950
+2023-10-31,Восток,B2B,Clothing,Cash,910,875
+2023-10-31,Восток,B2B,Clothing,Non-Cash,1690,1625
+2023-10-31,Восток,B2B,Home & Kitchen,Cash,399,525
+2023-10-31,Восток,B2B,Home & Kitchen,Non-Cash,741,975
+2023-10-31,Восток,B2B,Sports,Cash,686,700
+2023-10-31,Восток,B2B,Sports,Non-Cash,1274,1300
+2023-10-31,Восток,B2B,Books,Cash,290,350
+2023-10-31,Восток,B2B,Books,Non-Cash,540,650
+2023-10-31,Восток,Mobile Commerce,Electronics,Cash,709,945
+2023-10-31,Восток,Mobile Commerce,Electronics,Non-Cash,1316,1755
+2023-10-31,Восток,Mobile Commerce,Clothing,Cash,772,788
+2023-10-31,Восток,Mobile Commerce,Clothing,Non-Cash,1433,1462
+2023-10-31,Восток,Mobile Commerce,Home & Kitchen,Cash,529,472
+2023-10-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,983,878
+2023-10-31,Восток,Mobile Commerce,Sports,Cash,769,630
+2023-10-31,Восток,Mobile Commerce,Sports,Non-Cash,1427,1170
+2023-10-31,Восток,Mobile Commerce,Books,Cash,318,315
+2023-10-31,Восток,Mobile Commerce,Books,Non-Cash,591,585
+2023-11-30,Север,B2C,Electronics,Cash,315,315
+2023-11-30,Север,B2C,Electronics,Non-Cash,585,585
+2023-11-30,Север,B2C,Clothing,Cash,262,262
+2023-11-30,Север,B2C,Clothing,Non-Cash,488,488
+2023-11-30,Север,B2C,Home & Kitchen,Cash,128,158
+2023-11-30,Север,B2C,Home & Kitchen,Non-Cash,237,292
+2023-11-30,Север,B2C,Sports,Cash,208,210
+2023-11-30,Север,B2C,Sports,Non-Cash,386,390
+2023-11-30,Север,B2C,Books,Cash,94,105
+2023-11-30,Север,B2C,Books,Non-Cash,176,195
+2023-11-30,Север,B2B,Electronics,Cash,470,420
+2023-11-30,Север,B2B,Electronics,Non-Cash,874,780
+2023-11-30,Север,B2B,Clothing,Cash,406,350
+2023-11-30,Север,B2B,Clothing,Non-Cash,754,650
+2023-11-30,Север,B2B,Home & Kitchen,Cash,193,210
+2023-11-30,Север,B2B,Home & Kitchen,Non-Cash,359,390
+2023-11-30,Север,B2B,Sports,Cash,255,280
+2023-11-30,Север,B2B,Sports,Non-Cash,473,520
+2023-11-30,Север,B2B,Books,Cash,172,140
+2023-11-30,Север,B2B,Books,Non-Cash,320,260
+2023-11-30,Север,Mobile Commerce,Electronics,Cash,446,378
+2023-11-30,Север,Mobile Commerce,Electronics,Non-Cash,828,702
+2023-11-30,Север,Mobile Commerce,Clothing,Cash,381,315
+2023-11-30,Север,Mobile Commerce,Clothing,Non-Cash,708,585
+2023-11-30,Север,Mobile Commerce,Home & Kitchen,Cash,151,189
+2023-11-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,281,351
+2023-11-30,Север,Mobile Commerce,Sports,Cash,237,252
+2023-11-30,Север,Mobile Commerce,Sports,Non-Cash,440,468
+2023-11-30,Север,Mobile Commerce,Books,Cash,154,126
+2023-11-30,Север,Mobile Commerce,Books,Non-Cash,285,234
+2023-11-30,Запад,B2C,Electronics,Cash,458,472
+2023-11-30,Запад,B2C,Electronics,Non-Cash,852,878
+2023-11-30,Запад,B2C,Clothing,Cash,473,394
+2023-11-30,Запад,B2C,Clothing,Non-Cash,877,731
+2023-11-30,Запад,B2C,Home & Kitchen,Cash,203,236
+2023-11-30,Запад,B2C,Home & Kitchen,Non-Cash,378,439
+2023-11-30,Запад,B2C,Sports,Cash,271,315
+2023-11-30,Запад,B2C,Sports,Non-Cash,503,585
+2023-11-30,Запад,B2C,Books,Cash,171,158
+2023-11-30,Запад,B2C,Books,Non-Cash,315,292
+2023-11-30,Запад,B2B,Electronics,Cash,517,630
+2023-11-30,Запад,B2B,Electronics,Non-Cash,959,1170
+2023-11-30,Запад,B2B,Clothing,Cash,530,525
+2023-11-30,Запад,B2B,Clothing,Non-Cash,985,975
+2023-11-30,Запад,B2B,Home & Kitchen,Cash,387,315
+2023-11-30,Запад,B2B,Home & Kitchen,Non-Cash,720,585
+2023-11-30,Запад,B2B,Sports,Cash,344,420
+2023-11-30,Запад,B2B,Sports,Non-Cash,640,780
+2023-11-30,Запад,B2B,Books,Cash,256,210
+2023-11-30,Запад,B2B,Books,Non-Cash,476,390
+2023-11-30,Запад,Mobile Commerce,Electronics,Cash,607,567
+2023-11-30,Запад,Mobile Commerce,Electronics,Non-Cash,1127,1053
+2023-11-30,Запад,Mobile Commerce,Clothing,Cash,524,472
+2023-11-30,Запад,Mobile Commerce,Clothing,Non-Cash,975,878
+2023-11-30,Запад,Mobile Commerce,Home & Kitchen,Cash,264,284
+2023-11-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,489,526
+2023-11-30,Запад,Mobile Commerce,Sports,Cash,370,378
+2023-11-30,Запад,Mobile Commerce,Sports,Non-Cash,688,702
+2023-11-30,Запад,Mobile Commerce,Books,Cash,181,189
+2023-11-30,Запад,Mobile Commerce,Books,Non-Cash,337,351
+2023-11-30,Восток,B2C,Electronics,Cash,607,788
+2023-11-30,Восток,B2C,Electronics,Non-Cash,1126,1462
+2023-11-30,Восток,B2C,Clothing,Cash,544,656
+2023-11-30,Восток,B2C,Clothing,Non-Cash,1012,1219
+2023-11-30,Восток,B2C,Home & Kitchen,Cash,335,394
+2023-11-30,Восток,B2C,Home & Kitchen,Non-Cash,621,731
+2023-11-30,Восток,B2C,Sports,Cash,420,525
+2023-11-30,Восток,B2C,Sports,Non-Cash,780,975
+2023-11-30,Восток,B2C,Books,Cash,296,262
+2023-11-30,Восток,B2C,Books,Non-Cash,551,488
+2023-11-30,Восток,B2B,Electronics,Cash,1186,1050
+2023-11-30,Восток,B2B,Electronics,Non-Cash,2204,1950
+2023-11-30,Восток,B2B,Clothing,Cash,971,875
+2023-11-30,Восток,B2B,Clothing,Non-Cash,1804,1625
+2023-11-30,Восток,B2B,Home & Kitchen,Cash,399,525
+2023-11-30,Восток,B2B,Home & Kitchen,Non-Cash,741,975
+2023-11-30,Восток,B2B,Sports,Cash,777,700
+2023-11-30,Восток,B2B,Sports,Non-Cash,1443,1300
+2023-11-30,Восток,B2B,Books,Cash,280,350
+2023-11-30,Восток,B2B,Books,Non-Cash,520,650
+2023-11-30,Восток,Mobile Commerce,Electronics,Cash,756,945
+2023-11-30,Восток,Mobile Commerce,Electronics,Non-Cash,1404,1755
+2023-11-30,Восток,Mobile Commerce,Clothing,Cash,890,788
+2023-11-30,Восток,Mobile Commerce,Clothing,Non-Cash,1652,1462
+2023-11-30,Восток,Mobile Commerce,Home & Kitchen,Cash,519,472
+2023-11-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,966,878
+2023-11-30,Восток,Mobile Commerce,Sports,Cash,624,630
+2023-11-30,Восток,Mobile Commerce,Sports,Non-Cash,1158,1170
+2023-11-30,Восток,Mobile Commerce,Books,Cash,391,315
+2023-11-30,Восток,Mobile Commerce,Books,Non-Cash,725,585
+2023-12-31,Север,B2C,Electronics,Cash,284,315
+2023-12-31,Север,B2C,Electronics,Non-Cash,526,585
+2023-12-31,Север,B2C,Clothing,Cash,249,262
+2023-12-31,Север,B2C,Clothing,Non-Cash,464,488
+2023-12-31,Север,B2C,Home & Kitchen,Cash,133,158
+2023-12-31,Север,B2C,Home & Kitchen,Non-Cash,245,292
+2023-12-31,Север,B2C,Sports,Cash,166,210
+2023-12-31,Север,B2C,Sports,Non-Cash,308,390
+2023-12-31,Север,B2C,Books,Cash,130,105
+2023-12-31,Север,B2C,Books,Non-Cash,242,195
+2023-12-31,Север,B2B,Electronics,Cash,416,420
+2023-12-31,Север,B2B,Electronics,Non-Cash,772,780
+2023-12-31,Север,B2B,Clothing,Cash,368,350
+2023-12-31,Север,B2B,Clothing,Non-Cash,682,650
+2023-12-31,Север,B2B,Home & Kitchen,Cash,162,210
+2023-12-31,Север,B2B,Home & Kitchen,Non-Cash,300,390
+2023-12-31,Север,B2B,Sports,Cash,263,280
+2023-12-31,Север,B2B,Sports,Non-Cash,489,520
+2023-12-31,Север,B2B,Books,Cash,109,140
+2023-12-31,Север,B2B,Books,Non-Cash,203,260
+2023-12-31,Север,Mobile Commerce,Electronics,Cash,333,378
+2023-12-31,Север,Mobile Commerce,Electronics,Non-Cash,618,702
+2023-12-31,Север,Mobile Commerce,Clothing,Cash,271,315
+2023-12-31,Север,Mobile Commerce,Clothing,Non-Cash,503,585
+2023-12-31,Север,Mobile Commerce,Home & Kitchen,Cash,166,189
+2023-12-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,309,351
+2023-12-31,Север,Mobile Commerce,Sports,Cash,280,252
+2023-12-31,Север,Mobile Commerce,Sports,Non-Cash,519,468
+2023-12-31,Север,Mobile Commerce,Books,Cash,116,126
+2023-12-31,Север,Mobile Commerce,Books,Non-Cash,215,234
+2023-12-31,Запад,B2C,Electronics,Cash,477,472
+2023-12-31,Запад,B2C,Electronics,Non-Cash,887,878
+2023-12-31,Запад,B2C,Clothing,Cash,319,394
+2023-12-31,Запад,B2C,Clothing,Non-Cash,592,731
+2023-12-31,Запад,B2C,Home & Kitchen,Cash,288,236
+2023-12-31,Запад,B2C,Home & Kitchen,Non-Cash,536,439
+2023-12-31,Запад,B2C,Sports,Cash,343,315
+2023-12-31,Запад,B2C,Sports,Non-Cash,638,585
+2023-12-31,Запад,B2C,Books,Cash,152,158
+2023-12-31,Запад,B2C,Books,Non-Cash,280,292
+2023-12-31,Запад,B2B,Electronics,Cash,598,630
+2023-12-31,Запад,B2B,Electronics,Non-Cash,1112,1170
+2023-12-31,Запад,B2B,Clothing,Cash,614,525
+2023-12-31,Запад,B2B,Clothing,Non-Cash,1141,975
+2023-12-31,Запад,B2B,Home & Kitchen,Cash,290,315
+2023-12-31,Запад,B2B,Home & Kitchen,Non-Cash,538,585
+2023-12-31,Запад,B2B,Sports,Cash,470,420
+2023-12-31,Запад,B2B,Sports,Non-Cash,874,780
+2023-12-31,Запад,B2B,Books,Cash,210,210
+2023-12-31,Запад,B2B,Books,Non-Cash,390,390
+2023-12-31,Запад,Mobile Commerce,Electronics,Cash,544,567
+2023-12-31,Запад,Mobile Commerce,Electronics,Non-Cash,1011,1053
+2023-12-31,Запад,Mobile Commerce,Clothing,Cash,524,472
+2023-12-31,Запад,Mobile Commerce,Clothing,Non-Cash,975,878
+2023-12-31,Запад,Mobile Commerce,Home & Kitchen,Cash,224,284
+2023-12-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,416,526
+2023-12-31,Запад,Mobile Commerce,Sports,Cash,461,378
+2023-12-31,Запад,Mobile Commerce,Sports,Non-Cash,856,702
+2023-12-31,Запад,Mobile Commerce,Books,Cash,206,189
+2023-12-31,Запад,Mobile Commerce,Books,Non-Cash,383,351
+2023-12-31,Восток,B2C,Electronics,Cash,678,788
+2023-12-31,Восток,B2C,Electronics,Non-Cash,1257,1462
+2023-12-31,Восток,B2C,Clothing,Cash,715,656
+2023-12-31,Восток,B2C,Clothing,Non-Cash,1329,1219
+2023-12-31,Восток,B2C,Home & Kitchen,Cash,426,394
+2023-12-31,Восток,B2C,Home & Kitchen,Non-Cash,789,731
+2023-12-31,Восток,B2C,Sports,Cash,635,525
+2023-12-31,Восток,B2C,Sports,Non-Cash,1180,975
+2023-12-31,Восток,B2C,Books,Cash,246,262
+2023-12-31,Восток,B2C,Books,Non-Cash,459,488
+2023-12-31,Восток,B2B,Electronics,Cash,1292,1050
+2023-12-31,Восток,B2B,Electronics,Non-Cash,2398,1950
+2023-12-31,Восток,B2B,Clothing,Cash,752,875
+2023-12-31,Восток,B2B,Clothing,Non-Cash,1398,1625
+2023-12-31,Восток,B2B,Home & Kitchen,Cash,567,525
+2023-12-31,Восток,B2B,Home & Kitchen,Non-Cash,1053,975
+2023-12-31,Восток,B2B,Sports,Cash,700,700
+2023-12-31,Восток,B2B,Sports,Non-Cash,1300,1300
+2023-12-31,Восток,B2B,Books,Cash,378,350
+2023-12-31,Восток,B2B,Books,Non-Cash,702,650
+2023-12-31,Восток,Mobile Commerce,Electronics,Cash,1002,945
+2023-12-31,Восток,Mobile Commerce,Electronics,Non-Cash,1860,1755
+2023-12-31,Восток,Mobile Commerce,Clothing,Cash,946,788
+2023-12-31,Восток,Mobile Commerce,Clothing,Non-Cash,1754,1462
+2023-12-31,Восток,Mobile Commerce,Home & Kitchen,Cash,382,472
+2023-12-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,711,878
+2023-12-31,Восток,Mobile Commerce,Sports,Cash,630,630
+2023-12-31,Восток,Mobile Commerce,Sports,Non-Cash,1170,1170
+2023-12-31,Восток,Mobile Commerce,Books,Cash,312,315
+2023-12-31,Восток,Mobile Commerce,Books,Non-Cash,579,585
+2024-01-31,Север,B2C,Electronics,Cash,378,315
+2024-01-31,Север,B2C,Electronics,Non-Cash,702,585
+2024-01-31,Север,B2C,Clothing,Cash,296,262
+2024-01-31,Север,B2C,Clothing,Non-Cash,551,488
+2024-01-31,Север,B2C,Home & Kitchen,Cash,144,158
+2024-01-31,Север,B2C,Home & Kitchen,Non-Cash,266,292
+2024-01-31,Север,B2C,Sports,Cash,206,210
+2024-01-31,Север,B2C,Sports,Non-Cash,382,390
+2024-01-31,Север,B2C,Books,Cash,106,105
+2024-01-31,Север,B2C,Books,Non-Cash,197,195
+2024-01-31,Север,B2B,Electronics,Cash,328,420
+2024-01-31,Север,B2B,Electronics,Non-Cash,608,780
+2024-01-31,Север,B2B,Clothing,Cash,354,350
+2024-01-31,Север,B2B,Clothing,Non-Cash,656,650
+2024-01-31,Север,B2B,Home & Kitchen,Cash,254,210
+2024-01-31,Север,B2B,Home & Kitchen,Non-Cash,472,390
+2024-01-31,Север,B2B,Sports,Cash,291,280
+2024-01-31,Север,B2B,Sports,Non-Cash,541,520
+2024-01-31,Север,B2B,Books,Cash,108,140
+2024-01-31,Север,B2B,Books,Non-Cash,200,260
+2024-01-31,Север,Mobile Commerce,Electronics,Cash,302,378
+2024-01-31,Север,Mobile Commerce,Electronics,Non-Cash,562,702
+2024-01-31,Север,Mobile Commerce,Clothing,Cash,258,315
+2024-01-31,Север,Mobile Commerce,Clothing,Non-Cash,480,585
+2024-01-31,Север,Mobile Commerce,Home & Kitchen,Cash,170,189
+2024-01-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,316,351
+2024-01-31,Север,Mobile Commerce,Sports,Cash,224,252
+2024-01-31,Север,Mobile Commerce,Sports,Non-Cash,417,468
+2024-01-31,Север,Mobile Commerce,Books,Cash,139,126
+2024-01-31,Север,Mobile Commerce,Books,Non-Cash,257,234
+2024-01-31,Запад,B2C,Electronics,Cash,538,472
+2024-01-31,Запад,B2C,Electronics,Non-Cash,1001,878
+2024-01-31,Запад,B2C,Clothing,Cash,323,394
+2024-01-31,Запад,B2C,Clothing,Non-Cash,599,731
+2024-01-31,Запад,B2C,Home & Kitchen,Cash,267,236
+2024-01-31,Запад,B2C,Home & Kitchen,Non-Cash,496,439
+2024-01-31,Запад,B2C,Sports,Cash,328,315
+2024-01-31,Запад,B2C,Sports,Non-Cash,608,585
+2024-01-31,Запад,B2C,Books,Cash,196,158
+2024-01-31,Запад,B2C,Books,Non-Cash,362,292
+2024-01-31,Запад,B2B,Electronics,Cash,542,630
+2024-01-31,Запад,B2B,Electronics,Non-Cash,1006,1170
+2024-01-31,Запад,B2B,Clothing,Cash,410,525
+2024-01-31,Запад,B2B,Clothing,Non-Cash,760,975
+2024-01-31,Запад,B2B,Home & Kitchen,Cash,277,315
+2024-01-31,Запад,B2B,Home & Kitchen,Non-Cash,515,585
+2024-01-31,Запад,B2B,Sports,Cash,416,420
+2024-01-31,Запад,B2B,Sports,Non-Cash,772,780
+2024-01-31,Запад,B2B,Books,Cash,166,210
+2024-01-31,Запад,B2B,Books,Non-Cash,308,390
+2024-01-31,Запад,Mobile Commerce,Electronics,Cash,550,567
+2024-01-31,Запад,Mobile Commerce,Electronics,Non-Cash,1021,1053
+2024-01-31,Запад,Mobile Commerce,Clothing,Cash,491,472
+2024-01-31,Запад,Mobile Commerce,Clothing,Non-Cash,913,878
+2024-01-31,Запад,Mobile Commerce,Home & Kitchen,Cash,321,284
+2024-01-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,594,526
+2024-01-31,Запад,Mobile Commerce,Sports,Cash,325,378
+2024-01-31,Запад,Mobile Commerce,Sports,Non-Cash,604,702
+2024-01-31,Запад,Mobile Commerce,Books,Cash,168,189
+2024-01-31,Запад,Mobile Commerce,Books,Non-Cash,312,351
+2024-01-31,Восток,B2C,Electronics,Cash,733,788
+2024-01-31,Восток,B2C,Electronics,Non-Cash,1360,1462
+2024-01-31,Восток,B2C,Clothing,Cash,656,656
+2024-01-31,Восток,B2C,Clothing,Non-Cash,1219,1219
+2024-01-31,Восток,B2C,Home & Kitchen,Cash,469,394
+2024-01-31,Восток,B2C,Home & Kitchen,Non-Cash,870,731
+2024-01-31,Восток,B2C,Sports,Cash,410,525
+2024-01-31,Восток,B2C,Sports,Non-Cash,760,975
+2024-01-31,Восток,B2C,Books,Cash,293,262
+2024-01-31,Восток,B2C,Books,Non-Cash,547,488
+2024-01-31,Восток,B2B,Electronics,Cash,861,1050
+2024-01-31,Восток,B2B,Electronics,Non-Cash,1599,1950
+2024-01-31,Восток,B2B,Clothing,Cash,910,875
+2024-01-31,Восток,B2B,Clothing,Non-Cash,1690,1625
+2024-01-31,Восток,B2B,Home & Kitchen,Cash,467,525
+2024-01-31,Восток,B2B,Home & Kitchen,Non-Cash,868,975
+2024-01-31,Восток,B2B,Sports,Cash,602,700
+2024-01-31,Восток,B2B,Sports,Non-Cash,1118,1300
+2024-01-31,Восток,B2B,Books,Cash,294,350
+2024-01-31,Восток,B2B,Books,Non-Cash,546,650
+2024-01-31,Восток,Mobile Commerce,Electronics,Cash,813,945
+2024-01-31,Восток,Mobile Commerce,Electronics,Non-Cash,1509,1755
+2024-01-31,Восток,Mobile Commerce,Clothing,Cash,717,788
+2024-01-31,Восток,Mobile Commerce,Clothing,Non-Cash,1330,1462
+2024-01-31,Восток,Mobile Commerce,Home & Kitchen,Cash,538,472
+2024-01-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,1001,878
+2024-01-31,Восток,Mobile Commerce,Sports,Cash,479,630
+2024-01-31,Восток,Mobile Commerce,Sports,Non-Cash,889,1170
+2024-01-31,Восток,Mobile Commerce,Books,Cash,293,315
+2024-01-31,Восток,Mobile Commerce,Books,Non-Cash,544,585
+2024-02-29,Север,B2C,Electronics,Cash,324,315
+2024-02-29,Север,B2C,Electronics,Non-Cash,603,585
+2024-02-29,Север,B2C,Clothing,Cash,196,262
+2024-02-29,Север,B2C,Clothing,Non-Cash,366,488
+2024-02-29,Север,B2C,Home & Kitchen,Cash,152,158
+2024-02-29,Север,B2C,Home & Kitchen,Non-Cash,280,292
+2024-02-29,Север,B2C,Sports,Cash,208,210
+2024-02-29,Север,B2C,Sports,Non-Cash,386,390
+2024-02-29,Север,B2C,Books,Cash,88,105
+2024-02-29,Север,B2C,Books,Non-Cash,164,195
+2024-02-29,Север,B2B,Electronics,Cash,349,420
+2024-02-29,Север,B2B,Electronics,Non-Cash,647,780
+2024-02-29,Север,B2B,Clothing,Cash,326,350
+2024-02-29,Север,B2B,Clothing,Non-Cash,604,650
+2024-02-29,Север,B2B,Home & Kitchen,Cash,181,210
+2024-02-29,Север,B2B,Home & Kitchen,Non-Cash,335,390
+2024-02-29,Север,B2B,Sports,Cash,288,280
+2024-02-29,Север,B2B,Sports,Non-Cash,536,520
+2024-02-29,Север,B2B,Books,Cash,129,140
+2024-02-29,Север,B2B,Books,Non-Cash,239,260
+2024-02-29,Север,Mobile Commerce,Electronics,Cash,340,378
+2024-02-29,Север,Mobile Commerce,Electronics,Non-Cash,632,702
+2024-02-29,Север,Mobile Commerce,Clothing,Cash,246,315
+2024-02-29,Север,Mobile Commerce,Clothing,Non-Cash,456,585
+2024-02-29,Север,Mobile Commerce,Home & Kitchen,Cash,221,189
+2024-02-29,Север,Mobile Commerce,Home & Kitchen,Non-Cash,411,351
+2024-02-29,Север,Mobile Commerce,Sports,Cash,249,252
+2024-02-29,Север,Mobile Commerce,Sports,Non-Cash,463,468
+2024-02-29,Север,Mobile Commerce,Books,Cash,121,126
+2024-02-29,Север,Mobile Commerce,Books,Non-Cash,225,234
+2024-02-29,Запад,B2C,Electronics,Cash,486,472
+2024-02-29,Запад,B2C,Electronics,Non-Cash,904,878
+2024-02-29,Запад,B2C,Clothing,Cash,378,394
+2024-02-29,Запад,B2C,Clothing,Non-Cash,702,731
+2024-02-29,Запад,B2C,Home & Kitchen,Cash,210,236
+2024-02-29,Запад,B2C,Home & Kitchen,Non-Cash,391,439
+2024-02-29,Запад,B2C,Sports,Cash,384,315
+2024-02-29,Запад,B2C,Sports,Non-Cash,714,585
+2024-02-29,Запад,B2C,Books,Cash,120,158
+2024-02-29,Запад,B2C,Books,Non-Cash,222,292
+2024-02-29,Запад,B2B,Electronics,Cash,548,630
+2024-02-29,Запад,B2B,Electronics,Non-Cash,1018,1170
+2024-02-29,Запад,B2B,Clothing,Cash,452,525
+2024-02-29,Запад,B2B,Clothing,Non-Cash,838,975
+2024-02-29,Запад,B2B,Home & Kitchen,Cash,315,315
+2024-02-29,Запад,B2B,Home & Kitchen,Non-Cash,585,585
+2024-02-29,Запад,B2B,Sports,Cash,479,420
+2024-02-29,Запад,B2B,Sports,Non-Cash,889,780
+2024-02-29,Запад,B2B,Books,Cash,181,210
+2024-02-29,Запад,B2B,Books,Non-Cash,335,390
+2024-02-29,Запад,Mobile Commerce,Electronics,Cash,573,567
+2024-02-29,Запад,Mobile Commerce,Electronics,Non-Cash,1064,1053
+2024-02-29,Запад,Mobile Commerce,Clothing,Cash,566,472
+2024-02-29,Запад,Mobile Commerce,Clothing,Non-Cash,1054,878
+2024-02-29,Запад,Mobile Commerce,Home & Kitchen,Cash,310,284
+2024-02-29,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,573,526
+2024-02-29,Запад,Mobile Commerce,Sports,Cash,287,378
+2024-02-29,Запад,Mobile Commerce,Sports,Non-Cash,534,702
+2024-02-29,Запад,Mobile Commerce,Books,Cash,172,189
+2024-02-29,Запад,Mobile Commerce,Books,Non-Cash,319,351
+2024-02-29,Восток,B2C,Electronics,Cash,599,788
+2024-02-29,Восток,B2C,Electronics,Non-Cash,1111,1462
+2024-02-29,Восток,B2C,Clothing,Cash,597,656
+2024-02-29,Восток,B2C,Clothing,Non-Cash,1109,1219
+2024-02-29,Восток,B2C,Home & Kitchen,Cash,426,394
+2024-02-29,Восток,B2C,Home & Kitchen,Non-Cash,789,731
+2024-02-29,Восток,B2C,Sports,Cash,567,525
+2024-02-29,Восток,B2C,Sports,Non-Cash,1053,975
+2024-02-29,Восток,B2C,Books,Cash,312,262
+2024-02-29,Восток,B2C,Books,Non-Cash,581,488
+2024-02-29,Восток,B2B,Electronics,Cash,1186,1050
+2024-02-29,Восток,B2B,Electronics,Non-Cash,2204,1950
+2024-02-29,Восток,B2B,Clothing,Cash,1006,875
+2024-02-29,Восток,B2B,Clothing,Non-Cash,1869,1625
+2024-02-29,Восток,B2B,Home & Kitchen,Cash,436,525
+2024-02-29,Восток,B2B,Home & Kitchen,Non-Cash,809,975
+2024-02-29,Восток,B2B,Sports,Cash,616,700
+2024-02-29,Восток,B2B,Sports,Non-Cash,1144,1300
+2024-02-29,Восток,B2B,Books,Cash,410,350
+2024-02-29,Восток,B2B,Books,Non-Cash,760,650
+2024-02-29,Восток,Mobile Commerce,Electronics,Cash,888,945
+2024-02-29,Восток,Mobile Commerce,Electronics,Non-Cash,1650,1755
+2024-02-29,Восток,Mobile Commerce,Clothing,Cash,843,788
+2024-02-29,Восток,Mobile Commerce,Clothing,Non-Cash,1564,1462
+2024-02-29,Восток,Mobile Commerce,Home & Kitchen,Cash,463,472
+2024-02-29,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,860,878
+2024-02-29,Восток,Mobile Commerce,Sports,Cash,498,630
+2024-02-29,Восток,Mobile Commerce,Sports,Non-Cash,924,1170
+2024-02-29,Восток,Mobile Commerce,Books,Cash,334,315
+2024-02-29,Восток,Mobile Commerce,Books,Non-Cash,620,585
+2024-03-31,Север,B2C,Electronics,Cash,306,315
+2024-03-31,Север,B2C,Electronics,Non-Cash,567,585
+2024-03-31,Север,B2C,Clothing,Cash,196,262
+2024-03-31,Север,B2C,Clothing,Non-Cash,366,488
+2024-03-31,Север,B2C,Home & Kitchen,Cash,177,158
+2024-03-31,Север,B2C,Home & Kitchen,Non-Cash,327,292
+2024-03-31,Север,B2C,Sports,Cash,223,210
+2024-03-31,Север,B2C,Sports,Non-Cash,413,390
+2024-03-31,Север,B2C,Books,Cash,94,105
+2024-03-31,Север,B2C,Books,Non-Cash,176,195
+2024-03-31,Север,B2B,Electronics,Cash,395,420
+2024-03-31,Север,B2B,Electronics,Non-Cash,733,780
+2024-03-31,Север,B2B,Clothing,Cash,315,350
+2024-03-31,Север,B2B,Clothing,Non-Cash,585,650
+2024-03-31,Север,B2B,Home & Kitchen,Cash,183,210
+2024-03-31,Север,B2B,Home & Kitchen,Non-Cash,339,390
+2024-03-31,Север,B2B,Sports,Cash,336,280
+2024-03-31,Север,B2B,Sports,Non-Cash,624,520
+2024-03-31,Север,B2B,Books,Cash,119,140
+2024-03-31,Север,B2B,Books,Non-Cash,221,260
+2024-03-31,Север,Mobile Commerce,Electronics,Cash,438,378
+2024-03-31,Север,Mobile Commerce,Electronics,Non-Cash,814,702
+2024-03-31,Север,Mobile Commerce,Clothing,Cash,287,315
+2024-03-31,Север,Mobile Commerce,Clothing,Non-Cash,532,585
+2024-03-31,Север,Mobile Commerce,Home & Kitchen,Cash,153,189
+2024-03-31,Север,Mobile Commerce,Home & Kitchen,Non-Cash,284,351
+2024-03-31,Север,Mobile Commerce,Sports,Cash,242,252
+2024-03-31,Север,Mobile Commerce,Sports,Non-Cash,449,468
+2024-03-31,Север,Mobile Commerce,Books,Cash,132,126
+2024-03-31,Север,Mobile Commerce,Books,Non-Cash,246,234
+2024-03-31,Запад,B2C,Electronics,Cash,368,472
+2024-03-31,Запад,B2C,Electronics,Non-Cash,685,878
+2024-03-31,Запад,B2C,Clothing,Cash,359,394
+2024-03-31,Запад,B2C,Clothing,Non-Cash,665,731
+2024-03-31,Запад,B2C,Home & Kitchen,Cash,177,236
+2024-03-31,Запад,B2C,Home & Kitchen,Non-Cash,329,439
+2024-03-31,Запад,B2C,Sports,Cash,239,315
+2024-03-31,Запад,B2C,Sports,Non-Cash,445,585
+2024-03-31,Запад,B2C,Books,Cash,169,158
+2024-03-31,Запад,B2C,Books,Non-Cash,312,292
+2024-03-31,Запад,B2B,Electronics,Cash,743,630
+2024-03-31,Запад,B2B,Electronics,Non-Cash,1381,1170
+2024-03-31,Запад,B2B,Clothing,Cash,488,525
+2024-03-31,Запад,B2B,Clothing,Non-Cash,907,975
+2024-03-31,Запад,B2B,Home & Kitchen,Cash,293,315
+2024-03-31,Запад,B2B,Home & Kitchen,Non-Cash,544,585
+2024-03-31,Запад,B2B,Sports,Cash,407,420
+2024-03-31,Запад,B2B,Sports,Non-Cash,757,780
+2024-03-31,Запад,B2B,Books,Cash,189,210
+2024-03-31,Запад,B2B,Books,Non-Cash,351,390
+2024-03-31,Запад,Mobile Commerce,Electronics,Cash,510,567
+2024-03-31,Запад,Mobile Commerce,Electronics,Non-Cash,948,1053
+2024-03-31,Запад,Mobile Commerce,Clothing,Cash,486,472
+2024-03-31,Запад,Mobile Commerce,Clothing,Non-Cash,904,878
+2024-03-31,Запад,Mobile Commerce,Home & Kitchen,Cash,233,284
+2024-03-31,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,431,526
+2024-03-31,Запад,Mobile Commerce,Sports,Cash,386,378
+2024-03-31,Запад,Mobile Commerce,Sports,Non-Cash,716,702
+2024-03-31,Запад,Mobile Commerce,Books,Cash,187,189
+2024-03-31,Запад,Mobile Commerce,Books,Non-Cash,347,351
+2024-03-31,Восток,B2C,Electronics,Cash,780,788
+2024-03-31,Восток,B2C,Electronics,Non-Cash,1447,1462
+2024-03-31,Восток,B2C,Clothing,Cash,571,656
+2024-03-31,Восток,B2C,Clothing,Non-Cash,1061,1219
+2024-03-31,Восток,B2C,Home & Kitchen,Cash,347,394
+2024-03-31,Восток,B2C,Home & Kitchen,Non-Cash,643,731
+2024-03-31,Восток,B2C,Sports,Cash,488,525
+2024-03-31,Восток,B2C,Sports,Non-Cash,907,975
+2024-03-31,Восток,B2C,Books,Cash,233,262
+2024-03-31,Восток,B2C,Books,Non-Cash,434,488
+2024-03-31,Восток,B2B,Electronics,Cash,934,1050
+2024-03-31,Восток,B2B,Electronics,Non-Cash,1736,1950
+2024-03-31,Восток,B2B,Clothing,Cash,831,875
+2024-03-31,Восток,B2B,Clothing,Non-Cash,1544,1625
+2024-03-31,Восток,B2B,Home & Kitchen,Cash,431,525
+2024-03-31,Восток,B2B,Home & Kitchen,Non-Cash,800,975
+2024-03-31,Восток,B2B,Sports,Cash,833,700
+2024-03-31,Восток,B2B,Sports,Non-Cash,1547,1300
+2024-03-31,Восток,B2B,Books,Cash,413,350
+2024-03-31,Восток,B2B,Books,Non-Cash,767,650
+2024-03-31,Восток,Mobile Commerce,Electronics,Cash,964,945
+2024-03-31,Восток,Mobile Commerce,Electronics,Non-Cash,1790,1755
+2024-03-31,Восток,Mobile Commerce,Clothing,Cash,938,788
+2024-03-31,Восток,Mobile Commerce,Clothing,Non-Cash,1740,1462
+2024-03-31,Восток,Mobile Commerce,Home & Kitchen,Cash,425,472
+2024-03-31,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,790,878
+2024-03-31,Восток,Mobile Commerce,Sports,Cash,617,630
+2024-03-31,Восток,Mobile Commerce,Sports,Non-Cash,1147,1170
+2024-03-31,Восток,Mobile Commerce,Books,Cash,271,315
+2024-03-31,Восток,Mobile Commerce,Books,Non-Cash,503,585
+2024-04-30,Север,B2C,Electronics,Cash,277,315
+2024-04-30,Север,B2C,Electronics,Non-Cash,515,585
+2024-04-30,Север,B2C,Clothing,Cash,272,262
+2024-04-30,Север,B2C,Clothing,Non-Cash,508,488
+2024-04-30,Север,B2C,Home & Kitchen,Cash,167,158
+2024-04-30,Север,B2C,Home & Kitchen,Non-Cash,310,292
+2024-04-30,Север,B2C,Sports,Cash,254,210
+2024-04-30,Север,B2C,Sports,Non-Cash,472,390
+2024-04-30,Север,B2C,Books,Cash,98,105
+2024-04-30,Север,B2C,Books,Non-Cash,181,195
+2024-04-30,Север,B2B,Electronics,Cash,332,420
+2024-04-30,Север,B2B,Electronics,Non-Cash,616,780
+2024-04-30,Север,B2B,Clothing,Cash,360,350
+2024-04-30,Север,B2B,Clothing,Non-Cash,670,650
+2024-04-30,Север,B2B,Home & Kitchen,Cash,160,210
+2024-04-30,Север,B2B,Home & Kitchen,Non-Cash,296,390
+2024-04-30,Север,B2B,Sports,Cash,347,280
+2024-04-30,Север,B2B,Sports,Non-Cash,645,520
+2024-04-30,Север,B2B,Books,Cash,174,140
+2024-04-30,Север,B2B,Books,Non-Cash,322,260
+2024-04-30,Север,Mobile Commerce,Electronics,Cash,370,378
+2024-04-30,Север,Mobile Commerce,Electronics,Non-Cash,688,702
+2024-04-30,Север,Mobile Commerce,Clothing,Cash,287,315
+2024-04-30,Север,Mobile Commerce,Clothing,Non-Cash,532,585
+2024-04-30,Север,Mobile Commerce,Home & Kitchen,Cash,219,189
+2024-04-30,Север,Mobile Commerce,Home & Kitchen,Non-Cash,407,351
+2024-04-30,Север,Mobile Commerce,Sports,Cash,255,252
+2024-04-30,Север,Mobile Commerce,Sports,Non-Cash,473,468
+2024-04-30,Север,Mobile Commerce,Books,Cash,155,126
+2024-04-30,Север,Mobile Commerce,Books,Non-Cash,288,234
+2024-04-30,Запад,B2C,Electronics,Cash,363,472
+2024-04-30,Запад,B2C,Electronics,Non-Cash,676,878
+2024-04-30,Запад,B2C,Clothing,Cash,481,394
+2024-04-30,Запад,B2C,Clothing,Non-Cash,892,731
+2024-04-30,Запад,B2C,Home & Kitchen,Cash,217,236
+2024-04-30,Запад,B2C,Home & Kitchen,Non-Cash,404,439
+2024-04-30,Запад,B2C,Sports,Cash,299,315
+2024-04-30,Запад,B2C,Sports,Non-Cash,556,585
+2024-04-30,Запад,B2C,Books,Cash,179,158
+2024-04-30,Запад,B2C,Books,Non-Cash,330,292
+2024-04-30,Запад,B2B,Electronics,Cash,472,630
+2024-04-30,Запад,B2B,Electronics,Non-Cash,878,1170
+2024-04-30,Запад,B2B,Clothing,Cash,425,525
+2024-04-30,Запад,B2B,Clothing,Non-Cash,790,975
+2024-04-30,Запад,B2B,Home & Kitchen,Cash,375,315
+2024-04-30,Запад,B2B,Home & Kitchen,Non-Cash,696,585
+2024-04-30,Запад,B2B,Sports,Cash,407,420
+2024-04-30,Запад,B2B,Sports,Non-Cash,757,780
+2024-04-30,Запад,B2B,Books,Cash,189,210
+2024-04-30,Запад,B2B,Books,Non-Cash,351,390
+2024-04-30,Запад,Mobile Commerce,Electronics,Cash,482,567
+2024-04-30,Запад,Mobile Commerce,Electronics,Non-Cash,895,1053
+2024-04-30,Запад,Mobile Commerce,Clothing,Cash,514,472
+2024-04-30,Запад,Mobile Commerce,Clothing,Non-Cash,957,878
+2024-04-30,Запад,Mobile Commerce,Home & Kitchen,Cash,327,284
+2024-04-30,Запад,Mobile Commerce,Home & Kitchen,Non-Cash,605,526
+2024-04-30,Запад,Mobile Commerce,Sports,Cash,427,378
+2024-04-30,Запад,Mobile Commerce,Sports,Non-Cash,793,702
+2024-04-30,Запад,Mobile Commerce,Books,Cash,181,189
+2024-04-30,Запад,Mobile Commerce,Books,Non-Cash,337,351
+2024-04-30,Восток,B2C,Electronics,Cash,859,788
+2024-04-30,Восток,B2C,Electronics,Non-Cash,1594,1462
+2024-04-30,Восток,B2C,Clothing,Cash,702,656
+2024-04-30,Восток,B2C,Clothing,Non-Cash,1304,1219
+2024-04-30,Восток,B2C,Home & Kitchen,Cash,461,394
+2024-04-30,Восток,B2C,Home & Kitchen,Non-Cash,855,731
+2024-04-30,Восток,B2C,Sports,Cash,625,525
+2024-04-30,Восток,B2C,Sports,Non-Cash,1160,975
+2024-04-30,Восток,B2C,Books,Cash,288,262
+2024-04-30,Восток,B2C,Books,Non-Cash,537,488
+2024-04-30,Восток,B2B,Electronics,Cash,1218,1050
+2024-04-30,Восток,B2B,Electronics,Non-Cash,2262,1950
+2024-04-30,Восток,B2B,Clothing,Cash,998,875
+2024-04-30,Восток,B2B,Clothing,Non-Cash,1853,1625
+2024-04-30,Восток,B2B,Home & Kitchen,Cash,536,525
+2024-04-30,Восток,B2B,Home & Kitchen,Non-Cash,994,975
+2024-04-30,Восток,B2B,Sports,Cash,861,700
+2024-04-30,Восток,B2B,Sports,Non-Cash,1599,1300
+2024-04-30,Восток,B2B,Books,Cash,298,350
+2024-04-30,Восток,B2B,Books,Non-Cash,552,650
+2024-04-30,Восток,Mobile Commerce,Electronics,Cash,747,945
+2024-04-30,Восток,Mobile Commerce,Electronics,Non-Cash,1386,1755
+2024-04-30,Восток,Mobile Commerce,Clothing,Cash,725,788
+2024-04-30,Восток,Mobile Commerce,Clothing,Non-Cash,1345,1462
+2024-04-30,Восток,Mobile Commerce,Home & Kitchen,Cash,368,472
+2024-04-30,Восток,Mobile Commerce,Home & Kitchen,Non-Cash,685,878
+2024-04-30,Восток,Mobile Commerce,Sports,Cash,706,630
+2024-04-30,Восток,Mobile Commerce,Sports,Non-Cash,1310,1170
+2024-04-30,Восток,Mobile Commerce,Books,Cash,331,315
+2024-04-30,Восток,Mobile Commerce,Books,Non-Cash,614,585

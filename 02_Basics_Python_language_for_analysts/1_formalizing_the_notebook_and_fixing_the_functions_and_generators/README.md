@@ -1,0 +1,1 @@
+## 1_formalizing_the_notebook_and_fixing_the_functions_and_generators
